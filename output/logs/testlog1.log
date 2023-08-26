@@ -1230,3 +1230,191 @@
 2023-08-24 17:15:34,429 [main] INFO logger_File - User clicked on Edit option successfully
 2023-08-24 17:15:35,217 [main] INFO logger_File - User edited inforamtion successfully
 2023-08-24 17:15:35,246 [main] INFO logger_File - Payment Method updated Successfully
+2023-08-26 15:30:26,311 [main] INFO logger_File - User is on retail website
+2023-08-26 15:30:26,902 [main] INFO logger_File - User click on Sign in option
+2023-08-26 15:30:27,177 [main] INFO logger_File - User enetered email and password successfully
+2023-08-26 15:30:27,259 [main] INFO logger_File - User click on login button
+2023-08-26 15:30:27,506 [main] INFO logger_File - User is logged into account
+2023-08-26 15:30:27,723 [main] INFO logger_File - Account link was clicked successfully
+2023-08-26 15:30:27,997 [main] INFO logger_File - Name was entered successfully
+2023-08-26 15:30:28,146 [main] INFO logger_File - Phone number entered succcessfully
+2023-08-26 15:30:53,161 [main] INFO logger_File - User is on retail website
+2023-08-26 15:30:53,310 [main] INFO logger_File - User click on Sign in option
+2023-08-26 15:30:53,531 [main] INFO logger_File - User enetered email and password successfully
+2023-08-26 15:30:53,605 [main] INFO logger_File - User click on login button
+2023-08-26 15:30:53,815 [main] INFO logger_File - User is logged into account
+2023-08-26 15:30:54,037 [main] INFO logger_File - Account link was clicked successfully
+2023-08-26 15:30:54,115 [main] INFO logger_File - Add payment link clicked successfully
+2023-08-26 15:30:54,598 [main] INFO logger_File - Payment information was entered successfully
+2023-08-26 15:30:54,675 [main] INFO logger_File - Payment Method Submit bttn clicked successfully
+2023-08-26 15:30:57,159 [main] INFO logger_File - User is on retail website
+2023-08-26 15:30:57,271 [main] INFO logger_File - User click on Sign in option
+2023-08-26 15:30:57,495 [main] INFO logger_File - User enetered email and password successfully
+2023-08-26 15:30:57,569 [main] INFO logger_File - User click on login button
+2023-08-26 15:30:57,923 [main] INFO logger_File - User is logged into account
+2023-08-26 15:30:58,097 [main] INFO logger_File - Account link was clicked successfully
+2023-08-26 15:30:58,887 [main] INFO logger_File - User clicked on Edit option successfully
+2023-08-26 15:30:59,504 [main] INFO logger_File - User edited inforamtion successfully
+2023-08-26 15:30:59,526 [main] INFO logger_File - Payment Method updated Successfully
+2023-08-26 15:31:01,884 [main] INFO logger_File - User is on retail website
+2023-08-26 15:31:02,013 [main] INFO logger_File - User click on Sign in option
+2023-08-26 15:31:02,248 [main] INFO logger_File - User enetered email and password successfully
+2023-08-26 15:31:02,320 [main] INFO logger_File - User click on login button
+2023-08-26 15:31:02,548 [main] INFO logger_File - User is logged into account
+2023-08-26 15:31:02,689 [main] INFO logger_File - Account link was clicked successfully
+2023-08-26 15:31:03,426 [main] INFO logger_File - User click on remove button successfully
+2023-08-26 15:31:03,448 [main] INFO logger_File - Payment method removed successfully
+2023-08-26 15:31:06,804 [main] INFO logger_File - User is on retail website
+2023-08-26 15:31:06,946 [main] INFO logger_File - User click on Sign in option
+2023-08-26 15:31:07,167 [main] INFO logger_File - User enetered email and password successfully
+2023-08-26 15:31:07,236 [main] INFO logger_File - User click on login button
+2023-08-26 15:31:07,460 [main] INFO logger_File - User is logged into account
+2023-08-26 15:31:07,597 [main] INFO logger_File - Account link was clicked successfully
+2023-08-26 15:31:07,707 [main] INFO logger_File - Add Address clicked Successfully
+2023-08-26 15:31:08,637 [main] INFO logger_File - Address form was filled out successfully
+2023-08-26 15:31:08,725 [main] INFO logger_File - Address Added Successfully
+2023-08-26 15:31:09,485 [main] INFO logger_File - Expected Message: Address Added Successfully
+2023-08-26 15:31:12,129 [main] INFO logger_File - User is on retail website
+2023-08-26 15:31:12,244 [main] INFO logger_File - User click on Sign in option
+2023-08-26 15:31:12,501 [main] INFO logger_File - User enetered email and password successfully
+2023-08-26 15:31:12,572 [main] INFO logger_File - User click on login button
+2023-08-26 15:31:12,797 [main] INFO logger_File - User is logged into account
+2023-08-26 15:31:12,948 [main] INFO logger_File - Account link was clicked successfully
+2023-08-26 15:31:13,081 [main] INFO logger_File - User clicked on edit address option successfully
+2023-08-26 15:31:14,203 [main] INFO logger_File - User fills and update address info successfully
+2023-08-26 15:31:14,276 [main] INFO logger_File - User updated address info successfully
+2023-08-26 15:31:16,442 [main] INFO logger_File - User is on retail website
+2023-08-26 15:31:16,565 [main] INFO logger_File - User click on Sign in option
+2023-08-26 15:31:16,805 [main] INFO logger_File - User enetered email and password successfully
+2023-08-26 15:31:16,884 [main] INFO logger_File - User click on login button
+2023-08-26 15:31:17,099 [main] INFO logger_File - User is logged into account
+2023-08-26 15:31:17,253 [main] INFO logger_File - Account link was clicked successfully
+2023-08-26 15:31:17,346 [main] INFO logger_File - User clicked on remove address option sucessfully
+2023-08-26 15:31:17,367 [main] INFO logger_File - Address details are removed successfully
+2023-08-26 15:36:30,527 [main] INFO logger_File - User is on retail website
+2023-08-26 15:36:30,673 [main] INFO logger_File - User click on Sign in option
+2023-08-26 15:36:30,914 [main] INFO logger_File - User enetered email and password successfully
+2023-08-26 15:36:30,994 [main] INFO logger_File - User click on login button
+2023-08-26 15:36:31,464 [main] INFO logger_File - User is logged into account
+2023-08-26 15:36:31,614 [main] INFO logger_File - Account link was clicked successfully
+2023-08-26 15:36:31,777 [main] INFO logger_File - Name was entered successfully
+2023-08-26 15:36:31,927 [main] INFO logger_File - Phone number entered succcessfully
+2023-08-26 15:36:32,011 [main] INFO logger_File - Update button was clicked successfully
+2023-08-26 15:36:33,267 [main] INFO logger_File - Personal Information Updated Successfully
+2023-08-26 15:37:08,276 [main] INFO logger_File - User is on retail website
+2023-08-26 15:37:08,436 [main] INFO logger_File - User click on Sign in option
+2023-08-26 15:37:08,679 [main] INFO logger_File - User enetered email and password successfully
+2023-08-26 15:37:08,759 [main] INFO logger_File - User click on login button
+2023-08-26 15:37:09,401 [main] INFO logger_File - User is logged into account
+2023-08-26 15:37:09,541 [main] INFO logger_File - Account link was clicked successfully
+2023-08-26 15:37:09,702 [main] INFO logger_File - Name was entered successfully
+2023-08-26 15:37:09,858 [main] INFO logger_File - Phone number entered succcessfully
+2023-08-26 15:37:34,645 [main] INFO logger_File - User is on retail website
+2023-08-26 15:37:34,743 [main] INFO logger_File - User click on Sign in option
+2023-08-26 15:37:34,940 [main] INFO logger_File - User enetered email and password successfully
+2023-08-26 15:37:35,015 [main] INFO logger_File - User click on login button
+2023-08-26 15:37:37,011 [main] INFO logger_File - User is logged into account
+2023-08-26 15:37:37,144 [main] INFO logger_File - Account link was clicked successfully
+2023-08-26 15:37:37,241 [main] INFO logger_File - Add payment link clicked successfully
+2023-08-26 15:37:37,747 [main] INFO logger_File - Payment information was entered successfully
+2023-08-26 15:37:37,826 [main] INFO logger_File - Payment Method Submit bttn clicked successfully
+2023-08-26 15:37:41,032 [main] INFO logger_File - User is on retail website
+2023-08-26 15:37:41,139 [main] INFO logger_File - User click on Sign in option
+2023-08-26 15:37:41,353 [main] INFO logger_File - User enetered email and password successfully
+2023-08-26 15:37:41,428 [main] INFO logger_File - User click on login button
+2023-08-26 15:37:42,114 [main] INFO logger_File - User is logged into account
+2023-08-26 15:37:42,240 [main] INFO logger_File - Account link was clicked successfully
+2023-08-26 15:37:43,822 [main] INFO logger_File - User clicked on Edit option successfully
+2023-08-26 15:37:44,482 [main] INFO logger_File - User edited inforamtion successfully
+2023-08-26 15:37:44,505 [main] INFO logger_File - Payment Method updated Successfully
+2023-08-26 15:37:58,051 [main] INFO logger_File - User is on retail website
+2023-08-26 15:37:58,165 [main] INFO logger_File - User click on Sign in option
+2023-08-26 15:37:58,361 [main] INFO logger_File - User enetered email and password successfully
+2023-08-26 15:37:58,443 [main] INFO logger_File - User click on login button
+2023-08-26 15:37:58,678 [main] INFO logger_File - User is logged into account
+2023-08-26 15:37:58,829 [main] INFO logger_File - Account link was clicked successfully
+2023-08-26 15:37:59,544 [main] INFO logger_File - User click on remove button successfully
+2023-08-26 15:37:59,565 [main] INFO logger_File - Payment method removed successfully
+2023-08-26 15:38:01,609 [main] INFO logger_File - User is on retail website
+2023-08-26 15:38:01,729 [main] INFO logger_File - User click on Sign in option
+2023-08-26 15:38:01,950 [main] INFO logger_File - User enetered email and password successfully
+2023-08-26 15:38:02,021 [main] INFO logger_File - User click on login button
+2023-08-26 15:38:02,702 [main] INFO logger_File - User is logged into account
+2023-08-26 15:38:02,853 [main] INFO logger_File - Account link was clicked successfully
+2023-08-26 15:38:02,954 [main] INFO logger_File - Add Address clicked Successfully
+2023-08-26 15:38:03,933 [main] INFO logger_File - Address form was filled out successfully
+2023-08-26 15:38:04,007 [main] INFO logger_File - Address Added Successfully
+2023-08-26 15:38:04,670 [main] INFO logger_File - Expected Message: Address Added Successfully
+2023-08-26 15:38:06,661 [main] INFO logger_File - User is on retail website
+2023-08-26 15:38:06,786 [main] INFO logger_File - User click on Sign in option
+2023-08-26 15:38:07,006 [main] INFO logger_File - User enetered email and password successfully
+2023-08-26 15:38:07,087 [main] INFO logger_File - User click on login button
+2023-08-26 15:38:07,299 [main] INFO logger_File - User is logged into account
+2023-08-26 15:38:07,430 [main] INFO logger_File - Account link was clicked successfully
+2023-08-26 15:38:07,559 [main] INFO logger_File - User clicked on edit address option successfully
+2023-08-26 15:38:08,689 [main] INFO logger_File - User fills and update address info successfully
+2023-08-26 15:38:08,760 [main] INFO logger_File - User updated address info successfully
+2023-08-26 15:38:10,670 [main] INFO logger_File - User is on retail website
+2023-08-26 15:38:10,772 [main] INFO logger_File - User click on Sign in option
+2023-08-26 15:38:11,032 [main] INFO logger_File - User enetered email and password successfully
+2023-08-26 15:38:11,101 [main] INFO logger_File - User click on login button
+2023-08-26 15:38:11,316 [main] INFO logger_File - User is logged into account
+2023-08-26 15:38:11,471 [main] INFO logger_File - Account link was clicked successfully
+2023-08-26 15:38:11,552 [main] INFO logger_File - User clicked on remove address option sucessfully
+2023-08-26 15:38:11,576 [main] INFO logger_File - Address details are removed successfully
+2023-08-26 15:41:55,273 [main] INFO logger_File - User is on retail website
+2023-08-26 15:41:55,411 [main] INFO logger_File - User click on Sign in option
+2023-08-26 15:41:55,645 [main] INFO logger_File - User enetered email and password successfully
+2023-08-26 15:41:55,741 [main] INFO logger_File - User click on login button
+2023-08-26 15:41:55,965 [main] INFO logger_File - User is logged into account
+2023-08-26 15:41:56,115 [main] INFO logger_File - Account link was clicked successfully
+2023-08-26 15:41:56,276 [main] INFO logger_File - Name was entered successfully
+2023-08-26 15:41:56,427 [main] INFO logger_File - Phone number entered succcessfully
+2023-08-26 15:42:21,243 [main] INFO logger_File - User is on retail website
+2023-08-26 15:42:21,370 [main] INFO logger_File - User click on Sign in option
+2023-08-26 15:42:21,606 [main] INFO logger_File - User enetered email and password successfully
+2023-08-26 15:42:21,680 [main] INFO logger_File - User click on login button
+2023-08-26 15:42:21,904 [main] INFO logger_File - User is logged into account
+2023-08-26 15:42:22,032 [main] INFO logger_File - Account link was clicked successfully
+2023-08-26 15:42:22,114 [main] INFO logger_File - Add payment link clicked successfully
+2023-08-26 15:42:22,599 [main] INFO logger_File - Payment information was entered successfully
+2023-08-26 15:42:22,682 [main] INFO logger_File - Payment Method Submit bttn clicked successfully
+2023-08-26 15:42:29,008 [main] INFO logger_File - User is on retail website
+2023-08-26 15:42:29,133 [main] INFO logger_File - User click on Sign in option
+2023-08-26 15:42:29,358 [main] INFO logger_File - User enetered email and password successfully
+2023-08-26 15:42:29,433 [main] INFO logger_File - User click on login button
+2023-08-26 15:42:29,642 [main] INFO logger_File - User is logged into account
+2023-08-26 15:42:29,786 [main] INFO logger_File - Account link was clicked successfully
+2023-08-26 15:43:16,034 [main] INFO logger_File - User is on retail website
+2023-08-26 15:43:16,138 [main] INFO logger_File - User click on Sign in option
+2023-08-26 15:43:16,343 [main] INFO logger_File - User enetered email and password successfully
+2023-08-26 15:43:16,422 [main] INFO logger_File - User click on login button
+2023-08-26 15:43:18,804 [main] INFO logger_File - User is logged into account
+2023-08-26 15:43:19,001 [main] INFO logger_File - Account link was clicked successfully
+2023-08-26 15:44:01,099 [main] INFO logger_File - User is on retail website
+2023-08-26 15:44:01,217 [main] INFO logger_File - User click on Sign in option
+2023-08-26 15:44:01,477 [main] INFO logger_File - User enetered email and password successfully
+2023-08-26 15:44:01,550 [main] INFO logger_File - User click on login button
+2023-08-26 15:44:01,767 [main] INFO logger_File - User is logged into account
+2023-08-26 15:44:01,902 [main] INFO logger_File - Account link was clicked successfully
+2023-08-26 15:44:02,006 [main] INFO logger_File - Add Address clicked Successfully
+2023-08-26 15:44:03,033 [main] INFO logger_File - Address form was filled out successfully
+2023-08-26 15:44:03,106 [main] INFO logger_File - Address Added Successfully
+2023-08-26 15:44:03,753 [main] INFO logger_File - Expected Message: Address Added Successfully
+2023-08-26 15:44:05,866 [main] INFO logger_File - User is on retail website
+2023-08-26 15:44:05,973 [main] INFO logger_File - User click on Sign in option
+2023-08-26 15:44:06,194 [main] INFO logger_File - User enetered email and password successfully
+2023-08-26 15:44:06,273 [main] INFO logger_File - User click on login button
+2023-08-26 15:44:06,505 [main] INFO logger_File - User is logged into account
+2023-08-26 15:44:06,634 [main] INFO logger_File - Account link was clicked successfully
+2023-08-26 15:44:06,739 [main] INFO logger_File - User clicked on edit address option successfully
+2023-08-26 15:44:07,903 [main] INFO logger_File - User fills and update address info successfully
+2023-08-26 15:44:07,976 [main] INFO logger_File - User updated address info successfully
+2023-08-26 15:44:10,838 [main] INFO logger_File - User is on retail website
+2023-08-26 15:44:10,959 [main] INFO logger_File - User click on Sign in option
+2023-08-26 15:44:11,161 [main] INFO logger_File - User enetered email and password successfully
+2023-08-26 15:44:11,234 [main] INFO logger_File - User click on login button
+2023-08-26 15:44:12,243 [main] INFO logger_File - User is logged into account
+2023-08-26 15:44:12,373 [main] INFO logger_File - Account link was clicked successfully
+2023-08-26 15:44:13,033 [main] INFO logger_File - User clicked on remove address option sucessfully
+2023-08-26 15:44:13,056 [main] INFO logger_File - Address details are removed successfully
