@@ -1,0 +1,1232 @@
+2023-07-25 15:33:42,423 [main] INFO logger_File - User is on retail website
+2023-07-25 15:33:42,734 [main] INFO logger_File - User click on Sign in option
+2023-07-25 15:33:42,992 [main] INFO logger_File - User enetered email and password successfully
+2023-07-25 15:33:43,081 [main] INFO logger_File - User click on login button
+2023-07-25 15:33:43,316 [main] INFO logger_File - User is logged into account
+2023-07-27 10:46:25,409 [main] INFO logger_File - User is on retail website
+2023-07-27 10:46:25,766 [main] INFO logger_File - User click on Sign in option
+2023-07-27 10:46:25,895 [main] INFO logger_File - Create new account button clicked successfully
+2023-07-27 11:13:37,883 [main] INFO logger_File - User is on retail website
+2023-07-27 11:13:38,098 [main] INFO logger_File - User click on Sign in option
+2023-07-27 11:13:38,212 [main] INFO logger_File - Create new account button clicked successfully
+2023-07-27 11:13:45,886 [main] INFO logger_File - User is on retail website
+2023-07-27 11:13:46,024 [main] INFO logger_File - User click on Sign in option
+2023-07-27 11:13:46,121 [main] INFO logger_File - Create new account button clicked successfully
+2023-07-27 11:13:50,537 [main] INFO logger_File - User is on retail website
+2023-07-27 11:13:50,913 [main] INFO logger_File - User click on Sign in option
+2023-07-27 11:13:51,010 [main] INFO logger_File - Create new account button clicked successfully
+2023-07-27 11:16:50,422 [main] INFO logger_File - User is on retail website
+2023-07-27 11:16:50,804 [main] INFO logger_File - User click on Sign in option
+2023-07-27 11:16:50,907 [main] INFO logger_File - Create new account button clicked successfully
+2023-07-27 11:28:25,006 [main] INFO logger_File - User is on retail website
+2023-07-27 11:28:25,238 [main] INFO logger_File - User click on Sign in option
+2023-07-27 11:28:25,337 [main] INFO logger_File - Create new account button clicked successfully
+2023-07-27 11:33:51,977 [main] INFO logger_File - User is on retail website
+2023-07-27 11:33:52,185 [main] INFO logger_File - User click on Sign in option
+2023-07-27 11:33:52,283 [main] INFO logger_File - Create new account button clicked successfully
+2023-07-27 11:48:07,365 [main] INFO logger_File - User is on retail website
+2023-07-27 11:48:07,724 [main] INFO logger_File - User click on Sign in option
+2023-07-27 11:48:07,830 [main] INFO logger_File - Create new account button clicked successfully
+2023-07-27 11:57:18,804 [main] INFO logger_File - User is on retail website
+2023-07-27 11:57:18,932 [main] INFO logger_File - User click on Sign in option
+2023-07-27 11:57:19,039 [main] INFO logger_File - Create new account button clicked successfully
+2023-07-27 11:58:25,247 [main] INFO logger_File - User is on retail website
+2023-07-27 11:58:25,550 [main] INFO logger_File - User click on Sign in option
+2023-07-27 11:58:25,678 [main] INFO logger_File - Create new account button clicked successfully
+2023-07-27 12:33:29,480 [main] INFO logger_File - User is on retail website
+2023-07-27 12:33:29,679 [main] INFO logger_File - User click on Sign in option
+2023-07-27 12:33:29,781 [main] INFO logger_File - Create new account bttn clicked successfully
+2023-07-27 14:08:21,089 [main] INFO logger_File - User is on retail website
+2023-07-27 14:08:21,494 [main] INFO logger_File - User click on Sign in option
+2023-07-27 14:08:21,591 [main] INFO logger_File - Create new account bttn clicked successfully
+2023-07-27 14:08:22,480 [main] INFO logger_File - User fill the signUp information successfully
+2023-07-27 14:08:22,563 [main] INFO logger_File - User clicked on signup button successfully
+2023-07-27 14:08:22,903 [main] INFO logger_File - User account is created successfully
+2023-07-27 16:43:45,842 [main] INFO logger_File - TekSchool logo is displayed
+2023-07-27 16:43:46,196 [main] INFO logger_File - User clicked on All section successfully
+2023-07-27 16:43:46,228 [main] INFO logger_File - Options Electronics is displayed
+2023-07-27 16:43:46,260 [main] INFO logger_File - Options Computers is displayed
+2023-07-27 16:43:46,287 [main] INFO logger_File - Options Smart Home is displayed
+2023-07-27 16:43:46,310 [main] INFO logger_File - Options Sports is displayed
+2023-07-27 16:43:46,335 [main] INFO logger_File - Options Automative is displayed
+2023-07-27 18:43:22,174 [main] INFO logger_File - TekSchool logo is displayed
+2023-07-27 18:43:22,445 [main] INFO logger_File - User clicked on All section successfully
+2023-07-27 18:43:27,317 [main] INFO logger_File - TekSchool logo is displayed
+2023-07-27 18:43:27,568 [main] INFO logger_File - User clicked on All section successfully
+2023-07-27 18:43:31,191 [main] INFO logger_File - TekSchool logo is displayed
+2023-07-27 18:43:31,363 [main] INFO logger_File - User clicked on All section successfully
+2023-07-27 18:43:35,823 [main] INFO logger_File - TekSchool logo is displayed
+2023-07-27 18:43:35,924 [main] INFO logger_File - User clicked on All section successfully
+2023-07-27 18:43:39,511 [main] INFO logger_File - TekSchool logo is displayed
+2023-07-27 18:43:39,646 [main] INFO logger_File - User clicked on All section successfully
+2023-07-27 18:46:15,828 [main] INFO logger_File - TekSchool logo is displayed
+2023-07-27 18:46:15,959 [main] INFO logger_File - User clicked on All section successfully
+2023-07-27 18:46:20,344 [main] INFO logger_File - TekSchool logo is displayed
+2023-07-27 18:46:20,556 [main] INFO logger_File - User clicked on All section successfully
+2023-07-27 18:46:24,824 [main] INFO logger_File - TekSchool logo is displayed
+2023-07-27 18:46:24,934 [main] INFO logger_File - User clicked on All section successfully
+2023-07-27 18:46:28,905 [main] INFO logger_File - TekSchool logo is displayed
+2023-07-27 18:46:29,137 [main] INFO logger_File - User clicked on All section successfully
+2023-07-27 18:46:33,904 [main] INFO logger_File - TekSchool logo is displayed
+2023-07-27 18:46:34,094 [main] INFO logger_File - User clicked on All section successfully
+2023-07-27 18:47:06,967 [main] INFO logger_File - TekSchool logo is displayed
+2023-07-27 18:47:07,189 [main] INFO logger_File - User clicked on All section successfully
+2023-07-27 18:47:10,353 [main] INFO logger_File - TekSchool logo is displayed
+2023-07-27 18:47:10,469 [main] INFO logger_File - User clicked on All section successfully
+2023-07-27 18:47:13,781 [main] INFO logger_File - TekSchool logo is displayed
+2023-07-27 18:47:13,897 [main] INFO logger_File - User clicked on All section successfully
+2023-07-27 18:47:17,505 [main] INFO logger_File - TekSchool logo is displayed
+2023-07-27 18:47:17,711 [main] INFO logger_File - User clicked on All section successfully
+2023-07-27 18:47:21,503 [main] INFO logger_File - TekSchool logo is displayed
+2023-07-27 18:47:21,889 [main] INFO logger_File - User clicked on All section successfully
+2023-07-27 18:48:41,713 [main] INFO logger_File - TekSchool logo is displayed
+2023-07-27 18:48:41,956 [main] INFO logger_File - User clicked on All section successfully
+2023-07-27 18:48:42,181 [main] INFO logger_File - The options TV & Video is present
+2023-07-27 18:48:42,234 [main] INFO logger_File - The options Video Games is present
+2023-07-27 18:48:46,328 [main] INFO logger_File - TekSchool logo is displayed
+2023-07-27 18:48:46,608 [main] INFO logger_File - User clicked on All section successfully
+2023-07-27 18:48:46,791 [main] INFO logger_File - The options Accessories is present
+2023-07-27 18:48:46,843 [main] INFO logger_File - The options Networking is present
+2023-07-27 18:48:49,864 [main] INFO logger_File - TekSchool logo is displayed
+2023-07-27 18:48:49,972 [main] INFO logger_File - User clicked on All section successfully
+2023-07-27 18:48:50,161 [main] INFO logger_File - The options Smart Home Lightning is present
+2023-07-27 18:48:50,215 [main] INFO logger_File - The options Plugs and Outlets is present
+2023-07-27 18:48:54,085 [main] INFO logger_File - TekSchool logo is displayed
+2023-07-27 18:48:54,194 [main] INFO logger_File - User clicked on All section successfully
+2023-07-27 18:48:54,430 [main] INFO logger_File - The options Athletic Clothing is present
+2023-07-27 18:48:54,482 [main] INFO logger_File - The options Exercise & Fitness is present
+2023-07-27 18:48:57,637 [main] INFO logger_File - TekSchool logo is displayed
+2023-07-27 18:48:57,737 [main] INFO logger_File - User clicked on All section successfully
+2023-07-28 10:52:56,138 [main] INFO logger_File - User is on retail website
+2023-07-28 10:52:56,587 [main] INFO logger_File - User click on Sign in option
+2023-07-28 10:52:57,048 [main] INFO logger_File - User enetered email and password successfully
+2023-07-28 10:52:57,142 [main] INFO logger_File - User click on login button
+2023-07-28 10:52:57,461 [main] INFO logger_File - User is logged into account
+2023-07-28 10:52:57,832 [main] INFO logger_File - Account link was clicked successfully
+2023-07-28 10:52:58,232 [main] INFO logger_File - Name was entered successfully
+2023-07-28 10:52:58,412 [main] INFO logger_File - Phone number entered succcessfully
+2023-07-28 10:52:58,534 [main] INFO logger_File - Update button was clicked successfully
+2023-07-28 10:54:40,286 [main] INFO logger_File - User is on retail website
+2023-07-28 10:54:40,486 [main] INFO logger_File - User click on Sign in option
+2023-07-28 10:54:40,742 [main] INFO logger_File - User enetered email and password successfully
+2023-07-28 10:54:40,834 [main] INFO logger_File - User click on login button
+2023-07-28 10:54:41,126 [main] INFO logger_File - User is logged into account
+2023-07-28 10:54:41,311 [main] INFO logger_File - Account link was clicked successfully
+2023-07-28 10:54:41,500 [main] INFO logger_File - Name was entered successfully
+2023-07-28 10:54:41,666 [main] INFO logger_File - Phone number entered succcessfully
+2023-07-28 10:54:41,762 [main] INFO logger_File - Update button was clicked successfully
+2023-07-28 10:54:42,506 [main] INFO logger_File - Account information was updated successfully
+2023-07-30 15:13:17,889 [main] INFO logger_File - User is on retail website
+2023-07-30 15:13:18,170 [main] INFO logger_File - User click on Sign in option
+2023-07-30 15:13:18,643 [main] INFO logger_File - User enetered email and password successfully
+2023-07-30 15:13:18,780 [main] INFO logger_File - User click on login button
+2023-07-30 15:13:19,036 [main] INFO logger_File - User is logged into account
+2023-07-30 15:13:19,254 [main] INFO logger_File - Account link was clicked successfully
+2023-07-30 15:13:19,362 [main] INFO logger_File - Add payment link clicked successfully
+2023-07-30 15:13:19,956 [main] INFO logger_File - Payment information was entered successfully
+2023-07-30 15:13:20,044 [main] INFO logger_File - Payment Method Submit bttn clicked successfully
+2023-07-30 15:21:43,977 [main] INFO logger_File - User is on retail website
+2023-07-30 15:21:44,307 [main] INFO logger_File - User click on Sign in option
+2023-07-30 15:21:44,559 [main] INFO logger_File - User enetered email and password successfully
+2023-07-30 15:21:44,648 [main] INFO logger_File - User click on login button
+2023-07-30 15:21:45,022 [main] INFO logger_File - User is logged into account
+2023-07-30 15:21:45,178 [main] INFO logger_File - Account link was clicked successfully
+2023-07-30 15:21:45,278 [main] INFO logger_File - Add payment link clicked successfully
+2023-07-30 15:21:45,823 [main] INFO logger_File - Payment information was entered successfully
+2023-07-30 15:21:45,912 [main] INFO logger_File - Payment Method Submit bttn clicked successfully
+2023-07-30 15:57:24,737 [main] INFO logger_File - User is on retail website
+2023-07-30 15:57:24,930 [main] INFO logger_File - User click on Sign in option
+2023-07-30 15:57:25,214 [main] INFO logger_File - User enetered email and password successfully
+2023-07-30 15:57:25,305 [main] INFO logger_File - User click on login button
+2023-07-30 15:57:25,629 [main] INFO logger_File - User is logged into account
+2023-07-30 15:57:25,801 [main] INFO logger_File - Account link was clicked successfully
+2023-07-30 15:57:25,906 [main] INFO logger_File - Add payment link clicked successfully
+2023-07-30 15:57:26,460 [main] INFO logger_File - Payment information was entered successfully
+2023-07-30 15:57:26,548 [main] INFO logger_File - Payment Method Submit bttn clicked successfully
+2023-07-30 15:58:02,930 [main] INFO logger_File - User is on retail website
+2023-07-30 15:58:03,200 [main] INFO logger_File - User click on Sign in option
+2023-07-30 15:58:03,463 [main] INFO logger_File - User enetered email and password successfully
+2023-07-30 15:58:03,552 [main] INFO logger_File - User click on login button
+2023-07-30 15:58:03,779 [main] INFO logger_File - User is logged into account
+2023-07-30 15:58:03,927 [main] INFO logger_File - Account link was clicked successfully
+2023-07-30 15:58:04,023 [main] INFO logger_File - Add payment link clicked successfully
+2023-07-30 15:58:04,597 [main] INFO logger_File - Payment information was entered successfully
+2023-07-30 15:58:04,680 [main] INFO logger_File - Payment Method Submit bttn clicked successfully
+2023-07-30 16:20:08,855 [main] INFO logger_File - User is on retail website
+2023-07-30 16:20:09,052 [main] INFO logger_File - User click on Sign in option
+2023-07-30 16:20:09,336 [main] INFO logger_File - User enetered email and password successfully
+2023-07-30 16:20:09,423 [main] INFO logger_File - User click on login button
+2023-07-30 16:20:09,713 [main] INFO logger_File - User is logged into account
+2023-07-30 16:20:09,895 [main] INFO logger_File - Account link was clicked successfully
+2023-07-30 16:20:09,996 [main] INFO logger_File - Add payment link clicked successfully
+2023-07-30 16:20:10,553 [main] INFO logger_File - Payment information was entered successfully
+2023-07-30 16:20:10,642 [main] INFO logger_File - Payment Method Submit bttn clicked successfully
+2023-07-30 16:20:45,504 [main] INFO logger_File - User is on retail website
+2023-07-30 16:20:45,822 [main] INFO logger_File - User click on Sign in option
+2023-07-30 16:20:46,100 [main] INFO logger_File - User enetered email and password successfully
+2023-07-30 16:20:46,194 [main] INFO logger_File - User click on login button
+2023-07-30 16:20:46,491 [main] INFO logger_File - User is logged into account
+2023-07-30 16:20:46,647 [main] INFO logger_File - Account link was clicked successfully
+2023-07-30 16:20:46,751 [main] INFO logger_File - Add payment link clicked successfully
+2023-07-30 16:20:47,300 [main] INFO logger_File - Payment information was entered successfully
+2023-07-30 16:20:47,384 [main] INFO logger_File - Payment Method Submit bttn clicked successfully
+2023-07-30 16:23:54,734 [main] INFO logger_File - User is on retail website
+2023-07-30 16:23:55,024 [main] INFO logger_File - User click on Sign in option
+2023-07-30 16:23:55,298 [main] INFO logger_File - User enetered email and password successfully
+2023-07-30 16:23:55,385 [main] INFO logger_File - User click on login button
+2023-07-30 16:23:55,681 [main] INFO logger_File - User is logged into account
+2023-07-30 16:23:55,839 [main] INFO logger_File - Account link was clicked successfully
+2023-07-30 16:23:55,944 [main] INFO logger_File - Add payment link clicked successfully
+2023-07-30 16:23:56,521 [main] INFO logger_File - Payment information was entered successfully
+2023-07-30 16:23:56,604 [main] INFO logger_File - Payment Method Submit bttn clicked successfully
+2023-07-30 16:24:26,248 [main] INFO logger_File - User is on retail website
+2023-07-30 16:24:26,496 [main] INFO logger_File - User click on Sign in option
+2023-07-30 16:24:26,741 [main] INFO logger_File - User enetered email and password successfully
+2023-07-30 16:24:26,833 [main] INFO logger_File - User click on login button
+2023-07-30 16:24:27,104 [main] INFO logger_File - User is logged into account
+2023-07-30 16:24:27,255 [main] INFO logger_File - Account link was clicked successfully
+2023-07-30 16:24:27,357 [main] INFO logger_File - Add payment link clicked successfully
+2023-07-30 16:24:27,889 [main] INFO logger_File - Payment information was entered successfully
+2023-07-30 16:24:27,977 [main] INFO logger_File - Payment Method Submit bttn clicked successfully
+2023-07-30 16:27:17,041 [main] INFO logger_File - User is on retail website
+2023-07-30 16:27:17,558 [main] INFO logger_File - User click on Sign in option
+2023-07-30 16:27:17,962 [main] INFO logger_File - User enetered email and password successfully
+2023-07-30 16:27:18,271 [main] INFO logger_File - User click on login button
+2023-07-30 16:27:18,505 [main] INFO logger_File - User is logged into account
+2023-07-30 16:27:18,719 [main] INFO logger_File - Account link was clicked successfully
+2023-07-30 16:27:18,867 [main] INFO logger_File - Add payment link clicked successfully
+2023-07-30 16:27:19,669 [main] INFO logger_File - Payment information was entered successfully
+2023-07-30 16:27:19,756 [main] INFO logger_File - Payment Method Submit bttn clicked successfully
+2023-07-30 16:28:29,684 [main] INFO logger_File - User is on retail website
+2023-07-30 16:28:30,269 [main] INFO logger_File - User click on Sign in option
+2023-07-30 16:28:30,787 [main] INFO logger_File - User enetered email and password successfully
+2023-07-30 16:28:31,029 [main] INFO logger_File - User click on login button
+2023-07-30 16:28:31,136 [main] INFO logger_File - User is logged into account
+2023-07-30 16:28:31,409 [main] INFO logger_File - Account link was clicked successfully
+2023-07-30 16:28:31,510 [main] INFO logger_File - Add payment link clicked successfully
+2023-07-30 16:28:32,673 [main] INFO logger_File - Payment information was entered successfully
+2023-07-30 16:28:32,756 [main] INFO logger_File - Payment Method Submit bttn clicked successfully
+2023-07-30 16:53:08,711 [main] INFO logger_File - User is on retail website
+2023-07-30 16:53:09,001 [main] INFO logger_File - User click on Sign in option
+2023-07-30 16:53:09,263 [main] INFO logger_File - User enetered email and password successfully
+2023-07-30 16:53:09,350 [main] INFO logger_File - User click on login button
+2023-07-30 16:53:09,618 [main] INFO logger_File - User is logged into account
+2023-07-30 16:53:09,779 [main] INFO logger_File - Account link was clicked successfully
+2023-07-30 16:53:09,885 [main] INFO logger_File - Add payment link clicked successfully
+2023-07-30 16:53:10,447 [main] INFO logger_File - Payment information was entered successfully
+2023-07-30 16:53:10,534 [main] INFO logger_File - Payment Method Submit bttn clicked successfully
+2023-07-30 16:53:48,624 [main] INFO logger_File - User is on retail website
+2023-07-30 16:53:48,795 [main] INFO logger_File - User click on Sign in option
+2023-07-30 16:53:49,099 [main] INFO logger_File - User enetered email and password successfully
+2023-07-30 16:53:49,185 [main] INFO logger_File - User click on login button
+2023-07-30 16:53:49,508 [main] INFO logger_File - User is logged into account
+2023-07-30 16:53:49,735 [main] INFO logger_File - Account link was clicked successfully
+2023-07-30 16:53:49,833 [main] INFO logger_File - Add payment link clicked successfully
+2023-07-30 16:53:50,367 [main] INFO logger_File - Payment information was entered successfully
+2023-07-30 16:53:50,452 [main] INFO logger_File - Payment Method Submit bttn clicked successfully
+2023-07-30 16:55:49,550 [main] INFO logger_File - User is on retail website
+2023-07-30 16:55:49,703 [main] INFO logger_File - User click on Sign in option
+2023-07-30 16:55:49,963 [main] INFO logger_File - User enetered email and password successfully
+2023-07-30 16:55:50,053 [main] INFO logger_File - User click on login button
+2023-07-30 16:55:50,332 [main] INFO logger_File - User is logged into account
+2023-07-30 16:55:50,491 [main] INFO logger_File - Account link was clicked successfully
+2023-07-30 16:55:50,594 [main] INFO logger_File - Add payment link clicked successfully
+2023-07-30 16:55:51,134 [main] INFO logger_File - Payment information was entered successfully
+2023-07-30 16:55:51,218 [main] INFO logger_File - Payment Method Submit bttn clicked successfully
+2023-07-30 16:57:33,561 [main] INFO logger_File - User is on retail website
+2023-07-30 16:57:33,793 [main] INFO logger_File - User click on Sign in option
+2023-07-30 16:57:34,066 [main] INFO logger_File - User enetered email and password successfully
+2023-07-30 16:57:34,158 [main] INFO logger_File - User click on login button
+2023-07-30 16:57:34,382 [main] INFO logger_File - User is logged into account
+2023-07-30 16:57:34,578 [main] INFO logger_File - Account link was clicked successfully
+2023-07-30 16:57:34,681 [main] INFO logger_File - Add payment link clicked successfully
+2023-07-30 16:57:35,227 [main] INFO logger_File - Payment information was entered successfully
+2023-07-30 16:57:35,314 [main] INFO logger_File - Payment Method Submit bttn clicked successfully
+2023-07-30 20:08:39,482 [main] INFO logger_File - User is on retail website
+2023-07-30 20:08:39,755 [main] INFO logger_File - User click on Sign in option
+2023-07-30 20:08:40,040 [main] INFO logger_File - User enetered email and password successfully
+2023-07-30 20:08:40,181 [main] INFO logger_File - User click on login button
+2023-07-30 20:08:40,411 [main] INFO logger_File - User is logged into account
+2023-07-30 20:09:44,916 [main] INFO logger_File - User is on retail website
+2023-07-30 20:09:45,060 [main] INFO logger_File - User click on Sign in option
+2023-07-30 20:09:45,338 [main] INFO logger_File - User enetered email and password successfully
+2023-07-30 20:09:45,423 [main] INFO logger_File - User click on login button
+2023-07-30 20:09:45,724 [main] INFO logger_File - User is logged into account
+2023-07-30 20:23:55,083 [main] INFO logger_File - User is on retail website
+2023-07-30 20:23:56,046 [main] INFO logger_File - User click on Sign in option
+2023-07-30 20:23:57,225 [main] INFO logger_File - User enetered email and password successfully
+2023-07-30 20:23:57,352 [main] INFO logger_File - User click on login button
+2023-07-30 20:23:57,598 [main] INFO logger_File - User is logged into account
+2023-07-30 20:23:58,267 [main] INFO logger_File - Account link was clicked successfully
+2023-07-30 20:23:58,495 [main] INFO logger_File - User clicked on Edit option successfully
+2023-07-30 20:23:59,453 [main] INFO logger_File - User edited card info successfully
+2023-07-30 20:35:06,770 [main] INFO logger_File - User is on retail website
+2023-07-30 20:35:06,913 [main] INFO logger_File - User click on Sign in option
+2023-07-30 20:35:07,162 [main] INFO logger_File - User enetered email and password successfully
+2023-07-30 20:35:07,277 [main] INFO logger_File - User click on login button
+2023-07-30 20:35:07,601 [main] INFO logger_File - User is logged into account
+2023-07-30 20:35:07,763 [main] INFO logger_File - Account link was clicked successfully
+2023-07-30 20:35:08,754 [main] INFO logger_File - User clicked on Edit option successfully
+2023-07-30 20:35:09,580 [main] INFO logger_File - User editet inforamtion successfully
+2023-07-30 20:44:34,508 [main] INFO logger_File - User is on retail website
+2023-07-30 20:44:34,637 [main] INFO logger_File - User click on Sign in option
+2023-07-30 20:44:35,107 [main] INFO logger_File - User enetered email and password successfully
+2023-07-30 20:44:35,197 [main] INFO logger_File - User click on login button
+2023-07-30 20:44:35,511 [main] INFO logger_File - User is logged into account
+2023-07-30 20:44:35,912 [main] INFO logger_File - Account link was clicked successfully
+2023-07-30 20:44:36,107 [main] INFO logger_File - User clicked on Edit option successfully
+2023-07-30 20:44:36,845 [main] INFO logger_File - User editet inforamtion successfully
+2023-07-30 20:44:36,873 [main] INFO logger_File - Payment Method updated Successfully
+2023-07-30 21:11:28,926 [main] INFO logger_File - User is on retail website
+2023-07-30 21:11:29,674 [main] INFO logger_File - User click on Sign in option
+2023-07-30 21:11:29,958 [main] INFO logger_File - User enetered email and password successfully
+2023-07-30 21:11:30,044 [main] INFO logger_File - User click on login button
+2023-07-30 21:11:30,273 [main] INFO logger_File - User is logged into account
+2023-07-30 21:11:30,507 [main] INFO logger_File - Account link was clicked successfully
+2023-07-30 21:11:30,709 [main] INFO logger_File - User click on remove button successfully
+2023-07-30 21:11:30,743 [main] INFO logger_File - Payment method removed successfully
+2023-07-31 09:46:56,721 [main] INFO logger_File - User is on retail website
+2023-07-31 09:46:56,993 [main] INFO logger_File - User click on Sign in option
+2023-07-31 09:46:57,278 [main] INFO logger_File - User enetered email and password successfully
+2023-07-31 09:46:57,385 [main] INFO logger_File - User click on login button
+2023-07-31 09:46:57,634 [main] INFO logger_File - User is logged into account
+2023-07-31 09:46:57,832 [main] INFO logger_File - Account link was clicked successfully
+2023-07-31 09:46:58,064 [main] INFO logger_File - Add Address Link was clicked successfully
+2023-07-31 09:47:00,334 [main] INFO logger_File - Address form was filled out successfully
+2023-07-31 09:47:01,313 [main] INFO logger_File - User adderd adress syccessfully
+2023-07-31 09:49:48,747 [main] INFO logger_File - User is on retail website
+2023-07-31 09:49:48,921 [main] INFO logger_File - User click on Sign in option
+2023-07-31 09:49:49,198 [main] INFO logger_File - User enetered email and password successfully
+2023-07-31 09:49:49,283 [main] INFO logger_File - User click on login button
+2023-07-31 09:49:49,573 [main] INFO logger_File - User is logged into account
+2023-07-31 09:49:49,747 [main] INFO logger_File - Account link was clicked successfully
+2023-07-31 09:49:49,874 [main] INFO logger_File - Add Address Link was clicked successfully
+2023-07-31 09:49:51,032 [main] INFO logger_File - Address form was filled out successfully
+2023-07-31 09:49:51,132 [main] INFO logger_File - User adderd adress syccessfully
+2023-07-31 13:53:29,987 [main] INFO logger_File - User is on retail website
+2023-07-31 13:53:30,273 [main] INFO logger_File - User click on Sign in option
+2023-07-31 13:53:30,718 [main] INFO logger_File - User enetered email and password successfully
+2023-07-31 13:53:30,828 [main] INFO logger_File - User click on login button
+2023-07-31 13:53:31,084 [main] INFO logger_File - User is logged into account
+2023-07-31 13:53:31,488 [main] INFO logger_File - Account link was clicked successfully
+2023-07-31 13:53:31,600 [main] INFO logger_File - User clicked on edit address option sucessfully
+2023-07-31 13:55:30,596 [main] INFO logger_File - User is on retail website
+2023-07-31 13:55:30,908 [main] INFO logger_File - User click on Sign in option
+2023-07-31 13:55:31,180 [main] INFO logger_File - User enetered email and password successfully
+2023-07-31 13:55:31,264 [main] INFO logger_File - User click on login button
+2023-07-31 13:55:31,568 [main] INFO logger_File - User is logged into account
+2023-07-31 13:55:31,765 [main] INFO logger_File - Account link was clicked successfully
+2023-07-31 13:55:31,893 [main] INFO logger_File - User clicked on edit address option sucessfully
+2023-07-31 14:34:11,525 [main] INFO logger_File - User is on retail website
+2023-07-31 14:34:11,734 [main] INFO logger_File - User click on Sign in option
+2023-07-31 14:34:12,096 [main] INFO logger_File - User enetered email and password successfully
+2023-07-31 14:34:12,212 [main] INFO logger_File - User click on login button
+2023-07-31 14:34:12,500 [main] INFO logger_File - User is logged into account
+2023-07-31 14:34:12,858 [main] INFO logger_File - Account link was clicked successfully
+2023-07-31 14:34:12,987 [main] INFO logger_File - User clicked on edit address option sucessfully
+2023-07-31 14:34:14,454 [main] INFO logger_File - User fills and update address info successfully
+2023-07-31 14:34:14,618 [main] INFO logger_File - User updated addresss info successfully
+2023-07-31 15:04:25,959 [main] INFO logger_File - User is on retail website
+2023-07-31 15:04:26,151 [main] INFO logger_File - User click on Sign in option
+2023-07-31 15:04:26,613 [main] INFO logger_File - User enetered email and password successfully
+2023-07-31 15:04:26,693 [main] INFO logger_File - User click on login button
+2023-07-31 15:04:27,004 [main] INFO logger_File - User is logged into account
+2023-07-31 15:04:27,178 [main] INFO logger_File - Account link was clicked successfully
+2023-07-31 15:04:27,286 [main] INFO logger_File - User clicked on remove address option sucessfully
+2023-07-31 15:04:27,312 [main] INFO logger_File - Address details are removed successfully
+2023-07-31 15:22:06,616 [main] INFO logger_File - User is on retail website
+2023-07-31 15:22:06,835 [main] INFO logger_File - User click on Sign in option
+2023-07-31 15:22:07,123 [main] INFO logger_File - User enetered email and password successfully
+2023-07-31 15:22:07,213 [main] INFO logger_File - User click on login button
+2023-07-31 15:22:07,493 [main] INFO logger_File - User is logged into account
+2023-07-31 15:24:40,900 [main] INFO logger_File - User is on retail website
+2023-07-31 15:24:41,514 [main] INFO logger_File - User click on Sign in option
+2023-07-31 15:24:41,910 [main] INFO logger_File - User enetered email and password successfully
+2023-07-31 15:24:42,043 [main] INFO logger_File - User click on login button
+2023-07-31 15:24:42,240 [main] INFO logger_File - User is logged into account
+2023-07-31 15:45:28,419 [main] INFO logger_File - User is on retail website
+2023-07-31 15:45:28,661 [main] INFO logger_File - User click on Sign in option
+2023-07-31 15:45:28,980 [main] INFO logger_File - User enetered email and password successfully
+2023-07-31 15:45:29,097 [main] INFO logger_File - User click on login button
+2023-07-31 15:45:29,322 [main] INFO logger_File - User is logged into account
+2023-07-31 15:48:16,567 [main] INFO logger_File - User is on retail website
+2023-07-31 15:48:16,807 [main] INFO logger_File - User click on Sign in option
+2023-07-31 15:48:17,051 [main] INFO logger_File - User enetered email and password successfully
+2023-07-31 15:48:17,137 [main] INFO logger_File - User click on login button
+2023-07-31 15:48:17,397 [main] INFO logger_File - User is logged into account
+2023-08-01 08:14:48,369 [main] INFO logger_File - User is on retail website
+2023-08-01 08:14:50,015 [main] INFO logger_File - User click on Sign in option
+2023-08-01 08:14:52,855 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 08:14:53,525 [main] INFO logger_File - User click on login button
+2023-08-01 08:14:54,019 [main] INFO logger_File - User is logged into account
+2023-08-01 09:04:10,939 [main] INFO logger_File - User is on retail website
+2023-08-01 09:04:11,722 [main] INFO logger_File - User click on Sign in option
+2023-08-01 09:04:12,552 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 09:04:12,672 [main] INFO logger_File - User click on login button
+2023-08-01 09:04:12,920 [main] INFO logger_File - User is logged into account
+2023-08-01 09:16:19,415 [main] INFO logger_File - User is on retail website
+2023-08-01 09:16:19,536 [main] INFO logger_File - User click on Sign in option
+2023-08-01 09:16:19,803 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 09:16:19,914 [main] INFO logger_File - User click on login button
+2023-08-01 09:16:20,190 [main] INFO logger_File - User is logged into account
+2023-08-01 09:19:15,238 [main] INFO logger_File - User is on retail website
+2023-08-01 09:19:15,577 [main] INFO logger_File - User click on Sign in option
+2023-08-01 09:19:15,850 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 09:19:15,938 [main] INFO logger_File - User click on login button
+2023-08-01 09:19:16,187 [main] INFO logger_File - User is logged into account
+2023-08-01 09:32:04,078 [main] INFO logger_File - User is on retail website
+2023-08-01 09:32:04,346 [main] INFO logger_File - User click on Sign in option
+2023-08-01 09:32:04,623 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 09:32:04,719 [main] INFO logger_File - User click on login button
+2023-08-01 09:32:04,943 [main] INFO logger_File - User is logged into account
+2023-08-01 09:40:20,285 [main] INFO logger_File - User is on retail website
+2023-08-01 09:40:20,575 [main] INFO logger_File - User click on Sign in option
+2023-08-01 09:40:20,829 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 09:40:20,920 [main] INFO logger_File - User click on login button
+2023-08-01 09:40:21,164 [main] INFO logger_File - User is logged into account
+2023-08-01 09:44:56,788 [main] INFO logger_File - User is on retail website
+2023-08-01 09:44:56,943 [main] INFO logger_File - User click on Sign in option
+2023-08-01 09:44:57,235 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 09:44:57,328 [main] INFO logger_File - User click on login button
+2023-08-01 09:44:57,692 [main] INFO logger_File - User is logged into account
+2023-08-01 10:03:46,387 [main] INFO logger_File - User is on retail website
+2023-08-01 10:03:46,925 [main] INFO logger_File - User click on Sign in option
+2023-08-01 10:03:47,398 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 10:03:47,608 [main] INFO logger_File - User click on login button
+2023-08-01 10:03:47,862 [main] INFO logger_File - User is logged into account
+2023-08-01 10:03:48,110 [main] INFO logger_File - Category was selected successfully from dropdown
+2023-08-01 10:03:48,215 [main] INFO logger_File - Item name was entered successfuylly
+2023-08-01 10:03:48,302 [main] INFO logger_File - Search button was clicked successfully
+2023-08-01 10:03:48,478 [main] INFO logger_File - Item was clicked successfully
+2023-08-01 10:03:48,727 [main] INFO logger_File - Item quantity was selected successfully
+2023-08-01 10:03:48,808 [main] INFO logger_File - Add ittem to the cart button was clicked successfully
+2023-08-01 10:03:49,350 [main] INFO logger_File - Item qty in the cart was validated successfully
+2023-08-01 10:59:47,114 [main] INFO logger_File - User is on retail website
+2023-08-01 10:59:47,483 [main] INFO logger_File - User click on Sign in option
+2023-08-01 10:59:47,928 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 10:59:48,016 [main] INFO logger_File - User click on login button
+2023-08-01 10:59:48,272 [main] INFO logger_File - User is logged into account
+2023-08-01 10:59:48,616 [main] INFO logger_File - Category changed to electronics successfully
+2023-08-01 10:59:48,716 [main] INFO logger_File - Item name was entered successfully
+2023-08-01 10:59:48,800 [main] INFO logger_File - Search button was clicked successfully
+2023-08-01 10:59:48,973 [main] INFO logger_File - Item Apex Legends was clicked successfully
+2023-08-01 10:59:49,202 [main] INFO logger_File - Apex Legends qty was changed successfully
+2023-08-01 10:59:49,414 [main] INFO logger_File - Add ittem to the cart button was clicked successfully
+2023-08-01 10:59:49,516 [main] INFO logger_File - Item qty in the cart was validated successfully
+2023-08-01 10:59:49,612 [main] INFO logger_File - Cart Button was clicked successfully
+2023-08-01 10:59:49,728 [main] INFO logger_File - Proceed to check out button was clicked successfully
+2023-08-01 10:59:49,833 [main] INFO logger_File - Place your order button was clicked successfully
+2023-08-01 11:02:39,376 [main] INFO logger_File - User is on retail website
+2023-08-01 11:02:39,636 [main] INFO logger_File - User click on Sign in option
+2023-08-01 11:02:39,887 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 11:02:39,973 [main] INFO logger_File - User click on login button
+2023-08-01 11:02:40,362 [main] INFO logger_File - User is logged into account
+2023-08-01 11:02:40,520 [main] INFO logger_File - Category changed to electronics successfully
+2023-08-01 11:02:40,627 [main] INFO logger_File - Item name was entered successfully
+2023-08-01 11:02:40,722 [main] INFO logger_File - Search button was clicked successfully
+2023-08-01 11:02:40,902 [main] INFO logger_File - Item Apex Legends was clicked successfully
+2023-08-01 11:02:41,100 [main] INFO logger_File - Apex Legends qty was changed successfully
+2023-08-01 11:02:41,184 [main] INFO logger_File - Add ittem to the cart button was clicked successfully
+2023-08-01 11:02:41,293 [main] INFO logger_File - Item qty in the cart was validated successfully
+2023-08-01 11:02:41,389 [main] INFO logger_File - Cart Button was clicked successfully
+2023-08-01 11:02:41,503 [main] INFO logger_File - Proceed to check out button was clicked successfully
+2023-08-01 11:02:41,587 [main] INFO logger_File - Place your order button was clicked successfully
+2023-08-01 13:38:30,502 [main] INFO logger_File - User is on retail website
+2023-08-01 13:38:30,717 [main] INFO logger_File - User click on Sign in option
+2023-08-01 13:38:31,003 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 13:38:31,090 [main] INFO logger_File - User click on login button
+2023-08-01 13:38:32,129 [main] INFO logger_File - User is logged into account
+2023-08-01 13:42:45,716 [main] INFO logger_File - User is on retail website
+2023-08-01 13:42:45,894 [main] INFO logger_File - User click on Sign in option
+2023-08-01 13:42:46,193 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 13:42:46,282 [main] INFO logger_File - User click on login button
+2023-08-01 13:42:46,536 [main] INFO logger_File - User is logged into account
+2023-08-01 13:50:25,067 [main] INFO logger_File - User is on retail website
+2023-08-01 13:50:25,227 [main] INFO logger_File - User click on Sign in option
+2023-08-01 13:50:25,501 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 13:50:25,592 [main] INFO logger_File - User click on login button
+2023-08-01 13:50:25,870 [main] INFO logger_File - User is logged into account
+2023-08-01 13:50:26,371 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-01 13:50:26,472 [main] INFO logger_File - User clicked on first order on the list
+2023-08-01 13:53:53,777 [main] INFO logger_File - User is on retail website
+2023-08-01 13:53:53,894 [main] INFO logger_File - User click on Sign in option
+2023-08-01 13:53:54,506 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 13:53:54,653 [main] INFO logger_File - User click on login button
+2023-08-01 13:53:54,959 [main] INFO logger_File - User is logged into account
+2023-08-01 13:53:55,075 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-01 13:53:59,130 [main] INFO logger_File - User clicked on first order on the list
+2023-08-01 13:59:31,002 [main] INFO logger_File - User is on retail website
+2023-08-01 13:59:31,126 [main] INFO logger_File - User click on Sign in option
+2023-08-01 13:59:31,378 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 13:59:31,461 [main] INFO logger_File - User click on login button
+2023-08-01 13:59:31,723 [main] INFO logger_File - User is logged into account
+2023-08-01 13:59:31,854 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-01 13:59:32,110 [main] INFO logger_File - User clicked on first order on the list
+2023-08-01 14:03:26,615 [main] INFO logger_File - User is on retail website
+2023-08-01 14:03:26,780 [main] INFO logger_File - User click on Sign in option
+2023-08-01 14:03:27,171 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 14:03:27,312 [main] INFO logger_File - User click on login button
+2023-08-01 14:03:27,715 [main] INFO logger_File - User is logged into account
+2023-08-01 14:03:27,904 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-01 14:03:28,021 [main] INFO logger_File - User clicked on first order on the list
+2023-08-01 14:07:21,018 [main] INFO logger_File - User is on retail website
+2023-08-01 14:07:21,180 [main] INFO logger_File - User click on Sign in option
+2023-08-01 14:07:21,680 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 14:07:21,763 [main] INFO logger_File - User click on login button
+2023-08-01 14:07:22,084 [main] INFO logger_File - User is logged into account
+2023-08-01 14:07:22,283 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-01 14:07:22,402 [main] INFO logger_File - User clicked on first order on the list
+2023-08-01 14:12:03,804 [main] INFO logger_File - User is on retail website
+2023-08-01 14:12:04,070 [main] INFO logger_File - User click on Sign in option
+2023-08-01 14:12:04,338 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 14:12:04,421 [main] INFO logger_File - User click on login button
+2023-08-01 14:12:04,681 [main] INFO logger_File - User is logged into account
+2023-08-01 14:12:04,820 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-01 14:12:05,132 [main] INFO logger_File - User clicked on first order on the list
+2023-08-01 14:13:50,985 [main] INFO logger_File - User is on retail website
+2023-08-01 14:13:51,117 [main] INFO logger_File - User click on Sign in option
+2023-08-01 14:13:51,401 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 14:13:51,496 [main] INFO logger_File - User click on login button
+2023-08-01 14:13:51,816 [main] INFO logger_File - User is logged into account
+2023-08-01 14:13:52,014 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-01 14:13:52,136 [main] INFO logger_File - User clicked on first order on the list
+2023-08-01 14:17:33,759 [main] INFO logger_File - User is on retail website
+2023-08-01 14:17:33,948 [main] INFO logger_File - User click on Sign in option
+2023-08-01 14:17:34,297 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 14:17:34,420 [main] INFO logger_File - User click on login button
+2023-08-01 14:17:34,727 [main] INFO logger_File - User is logged into account
+2023-08-01 14:17:34,956 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-01 14:17:35,076 [main] INFO logger_File - User clicked on first order on the list
+2023-08-01 14:29:53,525 [main] INFO logger_File - User is on retail website
+2023-08-01 14:29:53,873 [main] INFO logger_File - User click on Sign in option
+2023-08-01 14:29:54,237 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 14:29:54,384 [main] INFO logger_File - User click on login button
+2023-08-01 14:29:54,640 [main] INFO logger_File - User is logged into account
+2023-08-01 14:29:54,822 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-01 14:29:54,944 [main] INFO logger_File - User clicked on first order on the list
+2023-08-01 14:33:52,555 [main] INFO logger_File - User is on retail website
+2023-08-01 14:33:52,709 [main] INFO logger_File - User click on Sign in option
+2023-08-01 14:33:53,015 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 14:33:53,107 [main] INFO logger_File - User click on login button
+2023-08-01 14:33:53,560 [main] INFO logger_File - User is logged into account
+2023-08-01 14:33:53,685 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-01 14:33:54,038 [main] INFO logger_File - User clicked on first order on the list
+2023-08-01 14:33:54,179 [main] INFO logger_File - User clicked on Cancel the Order button successfully
+2023-08-01 14:36:24,744 [main] INFO logger_File - User is on retail website
+2023-08-01 14:36:25,056 [main] INFO logger_File - User click on Sign in option
+2023-08-01 14:36:25,342 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 14:36:25,427 [main] INFO logger_File - User click on login button
+2023-08-01 14:36:25,767 [main] INFO logger_File - User is logged into account
+2023-08-01 14:36:25,900 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-01 14:36:26,194 [main] INFO logger_File - User clicked on first order on the list
+2023-08-01 14:36:26,324 [main] INFO logger_File - User clicked on Cancel the Order button successfully
+2023-08-01 14:38:55,502 [main] INFO logger_File - User is on retail website
+2023-08-01 14:38:55,788 [main] INFO logger_File - User click on Sign in option
+2023-08-01 14:38:56,040 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 14:38:56,128 [main] INFO logger_File - User click on login button
+2023-08-01 14:38:56,403 [main] INFO logger_File - User is logged into account
+2023-08-01 14:38:56,558 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-01 14:38:56,723 [main] INFO logger_File - User clicked on first order on the list
+2023-08-01 14:38:56,858 [main] INFO logger_File - User clicked on Cancel the Order button successfully
+2023-08-01 14:38:57,150 [main] INFO logger_File - User selects cancelation reason
+2023-08-01 14:38:57,312 [main] INFO logger_File - User click on Cancel Order Button successfully
+2023-08-01 14:38:57,499 [main] INFO logger_File - Cancelation Message is Displayed
+2023-08-01 15:22:45,286 [main] INFO logger_File - User is on retail website
+2023-08-01 15:22:45,718 [main] INFO logger_File - User click on Sign in option
+2023-08-01 15:22:45,998 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 15:22:46,088 [main] INFO logger_File - User click on login button
+2023-08-01 15:22:46,458 [main] INFO logger_File - User is logged into account
+2023-08-01 15:22:46,685 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-01 15:22:46,787 [main] INFO logger_File - User clicked on first order on the list
+2023-08-01 15:22:46,907 [main] INFO logger_File - User clicked on return items button successfully
+2023-08-01 15:27:52,036 [main] INFO logger_File - User is on retail website
+2023-08-01 15:27:52,318 [main] INFO logger_File - User click on Sign in option
+2023-08-01 15:27:52,615 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 15:27:52,697 [main] INFO logger_File - User click on login button
+2023-08-01 15:27:53,051 [main] INFO logger_File - User is logged into account
+2023-08-01 15:27:53,240 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-01 15:27:53,360 [main] INFO logger_File - User clicked on first order on the list
+2023-08-01 15:27:53,492 [main] INFO logger_File - User clicked on return items button successfully
+2023-08-01 15:27:53,527 [main] INFO logger_File - User select the return reason
+2023-08-01 15:27:53,557 [main] INFO logger_File - User select the FedEx drop off
+2023-08-01 15:27:53,641 [main] INFO logger_File - User clicked on return Order Button successfully
+2023-08-01 15:40:00,644 [main] INFO logger_File - User is on retail website
+2023-08-01 15:40:01,540 [main] INFO logger_File - User click on Sign in option
+2023-08-01 15:40:01,835 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 15:40:01,930 [main] INFO logger_File - User click on login button
+2023-08-01 15:40:02,242 [main] INFO logger_File - User is logged into account
+2023-08-01 15:40:02,462 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-01 15:40:02,588 [main] INFO logger_File - User clicked on first order on the list
+2023-08-01 15:40:50,658 [main] INFO logger_File - User is on retail website
+2023-08-01 15:40:50,954 [main] INFO logger_File - User click on Sign in option
+2023-08-01 15:40:51,228 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 15:40:51,316 [main] INFO logger_File - User click on login button
+2023-08-01 15:40:51,688 [main] INFO logger_File - User is logged into account
+2023-08-01 15:40:51,867 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-01 15:40:51,987 [main] INFO logger_File - User clicked on first order on the list
+2023-08-01 15:40:52,119 [main] INFO logger_File - User clicked on return items button successfully
+2023-08-01 15:40:52,149 [main] INFO logger_File - User select the return reason
+2023-08-01 15:40:52,181 [main] INFO logger_File - User select the FedEx drop off
+2023-08-01 15:40:52,262 [main] INFO logger_File - User clicked on return Order Button successfully
+2023-08-01 15:42:56,775 [main] INFO logger_File - User is on retail website
+2023-08-01 15:42:57,121 [main] INFO logger_File - User click on Sign in option
+2023-08-01 15:42:57,393 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 15:42:57,478 [main] INFO logger_File - User click on login button
+2023-08-01 15:42:57,726 [main] INFO logger_File - User is logged into account
+2023-08-01 15:42:57,857 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-01 15:42:58,073 [main] INFO logger_File - User clicked on first order on the list
+2023-08-01 15:42:58,204 [main] INFO logger_File - User clicked on return items button successfully
+2023-08-01 15:42:58,457 [main] INFO logger_File - User select the return reason
+2023-08-01 15:42:58,571 [main] INFO logger_File - User select the FedEx drop off
+2023-08-01 15:42:58,656 [main] INFO logger_File - User clicked on return Order Button successfully
+2023-08-01 15:48:46,354 [main] INFO logger_File - User is on retail website
+2023-08-01 15:48:46,561 [main] INFO logger_File - User click on Sign in option
+2023-08-01 15:48:46,866 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 15:48:46,963 [main] INFO logger_File - User click on login button
+2023-08-01 15:48:47,297 [main] INFO logger_File - User is logged into account
+2023-08-01 15:48:47,438 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-01 15:48:47,613 [main] INFO logger_File - User clicked on first order on the list
+2023-08-01 15:48:47,753 [main] INFO logger_File - User clicked on return items button successfully
+2023-08-01 15:48:47,853 [main] INFO logger_File - User select the return reason
+2023-08-01 15:48:47,941 [main] INFO logger_File - User select the FedEx drop off
+2023-08-01 15:48:48,033 [main] INFO logger_File - User clicked on return Order Button successfully
+2023-08-01 19:15:02,882 [main] INFO logger_File - User is on retail website
+2023-08-01 19:15:03,378 [main] INFO logger_File - User click on Sign in option
+2023-08-01 19:15:04,676 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 19:15:04,993 [main] INFO logger_File - User click on login button
+2023-08-01 19:15:05,226 [main] INFO logger_File - User is logged into account
+2023-08-01 19:15:05,596 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-01 19:15:05,709 [main] INFO logger_File - User clicked on first order on the list
+2023-08-01 21:14:37,696 [main] INFO logger_File - User is on retail website
+2023-08-01 21:14:38,591 [main] INFO logger_File - User click on Sign in option
+2023-08-01 21:14:39,307 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 21:14:39,741 [main] INFO logger_File - User click on login button
+2023-08-01 21:14:40,427 [main] INFO logger_File - User is logged into account
+2023-08-01 21:14:40,796 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-01 21:14:41,330 [main] INFO logger_File - User clicked on first order on the list
+2023-08-01 21:14:41,534 [main] INFO logger_File - User clicked on return items button successfully
+2023-08-01 21:14:41,686 [main] INFO logger_File - User select the return reason
+2023-08-01 21:14:41,808 [main] INFO logger_File - User select the FedEx drop off
+2023-08-01 21:14:41,899 [main] INFO logger_File - User clicked on return Order Button successfully
+2023-08-01 21:16:58,766 [main] INFO logger_File - User is on retail website
+2023-08-01 21:16:58,907 [main] INFO logger_File - User click on Sign in option
+2023-08-01 21:16:59,228 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 21:16:59,320 [main] INFO logger_File - User click on login button
+2023-08-01 21:16:59,594 [main] INFO logger_File - User is logged into account
+2023-08-01 21:16:59,704 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-01 21:17:00,288 [main] INFO logger_File - User clicked on first order on the list
+2023-08-01 21:17:00,436 [main] INFO logger_File - User clicked on return items button successfully
+2023-08-01 21:17:00,540 [main] INFO logger_File - User select the return reason
+2023-08-01 21:17:00,635 [main] INFO logger_File - User select the FedEx drop off
+2023-08-01 21:17:00,887 [main] INFO logger_File - Comformation Message is Displayed
+2023-08-01 21:17:00,887 [main] INFO logger_File - User clicked on return Order Button successfully
+2023-08-01 21:32:08,020 [main] INFO logger_File - User is on retail website
+2023-08-01 21:32:08,199 [main] INFO logger_File - User click on Sign in option
+2023-08-01 21:32:08,510 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 21:32:08,609 [main] INFO logger_File - User click on login button
+2023-08-01 21:32:08,935 [main] INFO logger_File - User is logged into account
+2023-08-01 21:32:09,137 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-01 21:32:09,263 [main] INFO logger_File - User clicked on first order on the list
+2023-08-01 21:32:09,404 [main] INFO logger_File - User clicked on return items button successfully
+2023-08-01 21:32:09,510 [main] INFO logger_File - User select the return reason
+2023-08-01 21:32:09,606 [main] INFO logger_File - User select the FedEx drop off
+2023-08-01 21:32:09,692 [main] INFO logger_File - User clicked on return Order Button successfully
+2023-08-01 21:50:34,468 [main] INFO logger_File - User is on retail website
+2023-08-01 21:50:34,680 [main] INFO logger_File - User click on Sign in option
+2023-08-01 21:50:34,973 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 21:50:35,061 [main] INFO logger_File - User click on login button
+2023-08-01 21:50:35,439 [main] INFO logger_File - User is logged into account
+2023-08-01 21:50:35,552 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-01 21:50:36,466 [main] INFO logger_File - User clicked on first order on the list
+2023-08-01 21:50:36,604 [main] INFO logger_File - User clicked on return items button successfully
+2023-08-01 21:50:36,707 [main] INFO logger_File - User select the return reason
+2023-08-01 21:50:36,804 [main] INFO logger_File - User select the FedEx drop off
+2023-08-01 21:50:36,898 [main] INFO logger_File - User clicked on return Order Button successfully
+2023-08-01 22:03:09,588 [main] INFO logger_File - User is on retail website
+2023-08-01 22:03:09,781 [main] INFO logger_File - User click on Sign in option
+2023-08-01 22:03:10,059 [main] INFO logger_File - User enetered email and password successfully
+2023-08-01 22:03:10,159 [main] INFO logger_File - User click on login button
+2023-08-01 22:03:10,426 [main] INFO logger_File - User is logged into account
+2023-08-01 22:03:10,545 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-01 22:03:10,866 [main] INFO logger_File - User clicked on first order on the list
+2023-08-01 22:03:11,004 [main] INFO logger_File - User clicked on return items button successfully
+2023-08-01 22:03:11,105 [main] INFO logger_File - User select the return reason
+2023-08-01 22:03:11,202 [main] INFO logger_File - User select the FedEx drop off
+2023-08-01 22:03:11,292 [main] INFO logger_File - User clicked on return Order Button successfully
+2023-08-02 11:26:19,651 [main] INFO logger_File - User is on retail website
+2023-08-02 11:26:19,898 [main] INFO logger_File - User click on Sign in option
+2023-08-02 11:26:20,173 [main] INFO logger_File - User enetered email and password successfully
+2023-08-02 11:26:20,265 [main] INFO logger_File - User click on login button
+2023-08-02 11:26:20,712 [main] INFO logger_File - User is logged into account
+2023-08-02 11:26:20,988 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-02 11:26:21,086 [main] INFO logger_File - User clicked on first order on the list
+2023-08-02 11:26:21,243 [main] INFO logger_File - User clicked on return items button successfully
+2023-08-02 11:26:21,348 [main] INFO logger_File - User select the return reason
+2023-08-02 11:26:21,443 [main] INFO logger_File - User select the FedEx drop off
+2023-08-02 11:26:21,534 [main] INFO logger_File - User clicked on return Order Button successfully
+2023-08-02 11:28:35,675 [main] INFO logger_File - User is on retail website
+2023-08-02 11:28:35,803 [main] INFO logger_File - User click on Sign in option
+2023-08-02 11:28:36,091 [main] INFO logger_File - User enetered email and password successfully
+2023-08-02 11:28:36,180 [main] INFO logger_File - User click on login button
+2023-08-02 11:28:36,444 [main] INFO logger_File - User is logged into account
+2023-08-02 11:28:36,613 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-02 11:28:37,052 [main] INFO logger_File - User clicked on first order on the list
+2023-08-02 11:28:37,182 [main] INFO logger_File - User clicked on return items button successfully
+2023-08-02 11:28:37,282 [main] INFO logger_File - User select the return reason
+2023-08-02 11:28:37,382 [main] INFO logger_File - User select the FedEx drop off
+2023-08-02 11:28:37,473 [main] INFO logger_File - User clicked on return Order Button successfully
+2023-08-02 11:52:08,950 [main] INFO logger_File - User is on retail website
+2023-08-02 11:52:09,133 [main] INFO logger_File - User click on Sign in option
+2023-08-02 11:52:09,403 [main] INFO logger_File - User enetered email and password successfully
+2023-08-02 11:52:09,492 [main] INFO logger_File - User click on login button
+2023-08-02 11:52:10,043 [main] INFO logger_File - User is logged into account
+2023-08-02 11:52:10,194 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-02 11:52:10,484 [main] INFO logger_File - User clicked on first order on the list
+2023-08-02 11:52:10,616 [main] INFO logger_File - User clicked on return items button successfully
+2023-08-02 11:52:10,718 [main] INFO logger_File - User select the return reason
+2023-08-02 11:52:10,818 [main] INFO logger_File - User select the FedEx drop off
+2023-08-02 11:52:10,904 [main] INFO logger_File - User clicked on return Order Button successfully
+2023-08-02 12:03:53,748 [main] INFO logger_File - User is on retail website
+2023-08-02 12:03:53,880 [main] INFO logger_File - User click on Sign in option
+2023-08-02 12:03:54,154 [main] INFO logger_File - User enetered email and password successfully
+2023-08-02 12:03:54,248 [main] INFO logger_File - User click on login button
+2023-08-02 12:03:54,479 [main] INFO logger_File - User is logged into account
+2023-08-02 12:03:54,604 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-02 12:03:54,855 [main] INFO logger_File - User clicked on first order on the list
+2023-08-02 12:03:54,957 [main] INFO logger_File - User clicked on Review button successfully
+2023-08-02 12:03:55,191 [main] INFO logger_File - User wrote Reviev successfully
+2023-08-02 12:03:55,282 [main] INFO logger_File - USer clicked on Add ypur Review button successfuly
+2023-08-02 12:08:54,553 [main] INFO logger_File - User is on retail website
+2023-08-02 12:08:54,731 [main] INFO logger_File - User click on Sign in option
+2023-08-02 12:08:54,977 [main] INFO logger_File - User enetered email and password successfully
+2023-08-02 12:08:55,067 [main] INFO logger_File - User click on login button
+2023-08-02 12:08:55,396 [main] INFO logger_File - User is logged into account
+2023-08-02 12:08:55,587 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-02 12:08:55,715 [main] INFO logger_File - User clicked on first order on the list
+2023-08-02 12:08:55,830 [main] INFO logger_File - User clicked on Review button successfully
+2023-08-02 12:08:56,103 [main] INFO logger_File - User wrote Reviev successfully
+2023-08-02 12:08:56,221 [main] INFO logger_File - USer clicked on Add ypur Review button successfuly
+2023-08-02 12:10:26,570 [main] INFO logger_File - User is on retail website
+2023-08-02 12:10:26,876 [main] INFO logger_File - User click on Sign in option
+2023-08-02 12:10:27,134 [main] INFO logger_File - User enetered email and password successfully
+2023-08-02 12:10:27,222 [main] INFO logger_File - User click on login button
+2023-08-02 12:10:27,597 [main] INFO logger_File - User is logged into account
+2023-08-02 12:10:27,739 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-02 12:10:27,851 [main] INFO logger_File - User clicked on first order on the list
+2023-08-02 12:10:27,970 [main] INFO logger_File - User clicked on Review button successfully
+2023-08-02 12:10:28,262 [main] INFO logger_File - User wrote Reviev successfully
+2023-08-02 12:10:28,380 [main] INFO logger_File - USer clicked on Add ypur Review button successfuly
+2023-08-02 12:13:21,080 [main] INFO logger_File - User is on retail website
+2023-08-02 12:13:21,451 [main] INFO logger_File - User click on Sign in option
+2023-08-02 12:13:21,696 [main] INFO logger_File - User enetered email and password successfully
+2023-08-02 12:13:21,782 [main] INFO logger_File - User click on login button
+2023-08-02 12:13:22,123 [main] INFO logger_File - User is logged into account
+2023-08-02 12:13:22,279 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-02 12:13:22,411 [main] INFO logger_File - User clicked on first order on the list
+2023-08-02 12:13:22,509 [main] INFO logger_File - User clicked on Review button successfully
+2023-08-02 12:13:22,775 [main] INFO logger_File - User wrote Reviev successfully
+2023-08-02 12:13:22,901 [main] INFO logger_File - USer clicked on Add ypur Review button successfuly
+2023-08-02 12:13:23,574 [main] INFO logger_File - Review message is displayed
+2023-08-02 12:17:28,219 [main] INFO logger_File - User is on retail website
+2023-08-02 12:17:28,388 [main] INFO logger_File - User click on Sign in option
+2023-08-02 12:17:28,651 [main] INFO logger_File - User enetered email and password successfully
+2023-08-02 12:17:28,743 [main] INFO logger_File - User click on login button
+2023-08-02 12:17:29,067 [main] INFO logger_File - User is logged into account
+2023-08-02 12:17:29,218 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-02 12:17:29,348 [main] INFO logger_File - User clicked on first order on the list
+2023-08-02 12:17:29,482 [main] INFO logger_File - User clicked on return items button successfully
+2023-08-02 12:17:29,584 [main] INFO logger_File - User select the return reason
+2023-08-02 12:17:29,675 [main] INFO logger_File - User select the FedEx drop off
+2023-08-02 12:17:29,769 [main] INFO logger_File - User clicked on return Order Button successfully
+2023-08-02 12:23:03,882 [main] INFO logger_File - User is on retail website
+2023-08-02 12:23:04,055 [main] INFO logger_File - User click on Sign in option
+2023-08-02 12:23:04,359 [main] INFO logger_File - User enetered email and password successfully
+2023-08-02 12:23:04,455 [main] INFO logger_File - User click on login button
+2023-08-02 12:23:04,783 [main] INFO logger_File - User is logged into account
+2023-08-02 12:23:04,958 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-02 12:23:05,078 [main] INFO logger_File - User clicked on first order on the list
+2023-08-02 12:23:05,185 [main] INFO logger_File - User clicked on Review button successfully
+2023-08-02 12:23:05,432 [main] INFO logger_File - User wrote Reviev successfully
+2023-08-02 12:23:05,561 [main] INFO logger_File - USer clicked on Add ypur Review button successfuly
+2023-08-02 12:23:06,347 [main] INFO logger_File - Review message is displayed
+2023-08-02 12:24:35,622 [main] INFO logger_File - User is on retail website
+2023-08-02 12:24:35,854 [main] INFO logger_File - User click on Sign in option
+2023-08-02 12:24:36,107 [main] INFO logger_File - User enetered email and password successfully
+2023-08-02 12:24:36,196 [main] INFO logger_File - User click on login button
+2023-08-02 12:24:36,481 [main] INFO logger_File - User is logged into account
+2023-08-02 12:24:36,679 [main] INFO logger_File - Category was selected successfully from dropdown
+2023-08-02 12:24:36,779 [main] INFO logger_File - Item name was entered successfuylly
+2023-08-02 12:24:36,861 [main] INFO logger_File - Search button was clicked successfully
+2023-08-02 12:24:37,025 [main] INFO logger_File - Item was clicked successfully
+2023-08-02 12:24:37,263 [main] INFO logger_File - Item quantity was selected successfully
+2023-08-02 12:24:37,375 [main] INFO logger_File - Add ittem to the cart button was clicked successfully
+2023-08-02 12:24:37,476 [main] INFO logger_File - Item qty in the cart was validated successfully
+2023-08-02 12:25:05,353 [main] INFO logger_File - User is on retail website
+2023-08-02 12:25:05,660 [main] INFO logger_File - User click on Sign in option
+2023-08-02 12:25:05,905 [main] INFO logger_File - User enetered email and password successfully
+2023-08-02 12:25:05,991 [main] INFO logger_File - User click on login button
+2023-08-02 12:25:06,307 [main] INFO logger_File - User is logged into account
+2023-08-02 12:25:06,462 [main] INFO logger_File - Category changed to electronics successfully
+2023-08-02 12:25:06,554 [main] INFO logger_File - Item name was entered successfully
+2023-08-02 12:25:06,638 [main] INFO logger_File - Search button was clicked successfully
+2023-08-02 12:25:06,800 [main] INFO logger_File - Item Apex Legends was clicked successfully
+2023-08-02 12:25:07,058 [main] INFO logger_File - Apex Legends qty was changed successfully
+2023-08-02 12:25:07,229 [main] INFO logger_File - Add ittem to the cart button was clicked successfully
+2023-08-02 12:27:08,277 [main] INFO logger_File - User is on retail website
+2023-08-02 12:27:08,494 [main] INFO logger_File - User click on Sign in option
+2023-08-02 12:27:08,751 [main] INFO logger_File - User enetered email and password successfully
+2023-08-02 12:27:08,843 [main] INFO logger_File - User click on login button
+2023-08-02 12:27:09,295 [main] INFO logger_File - User is logged into account
+2023-08-02 12:27:09,446 [main] INFO logger_File - Category changed to electronics successfully
+2023-08-02 12:27:09,545 [main] INFO logger_File - Item name was entered successfully
+2023-08-02 12:27:09,634 [main] INFO logger_File - Search button was clicked successfully
+2023-08-02 12:27:09,796 [main] INFO logger_File - Item Apex Legends was clicked successfully
+2023-08-02 12:27:09,970 [main] INFO logger_File - Apex Legends qty was changed successfully
+2023-08-02 12:27:10,135 [main] INFO logger_File - Add ittem to the cart button was clicked successfully
+2023-08-02 12:27:10,392 [main] INFO logger_File - Item qty in the cart was validated successfully
+2023-08-02 12:27:10,487 [main] INFO logger_File - Cart Button was clicked successfully
+2023-08-02 12:27:10,602 [main] INFO logger_File - Proceed to check out button was clicked successfully
+2023-08-02 12:27:10,705 [main] INFO logger_File - Place your order button was clicked successfully
+2023-08-02 12:27:38,548 [main] INFO logger_File - User is on retail website
+2023-08-02 12:27:38,801 [main] INFO logger_File - User click on Sign in option
+2023-08-02 12:27:39,045 [main] INFO logger_File - User enetered email and password successfully
+2023-08-02 12:27:39,137 [main] INFO logger_File - User click on login button
+2023-08-02 12:27:39,402 [main] INFO logger_File - User is logged into account
+2023-08-02 12:27:39,573 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-02 12:27:39,692 [main] INFO logger_File - User clicked on first order on the list
+2023-08-02 12:27:39,818 [main] INFO logger_File - User clicked on Cancel the Order button successfully
+2023-08-02 12:27:39,921 [main] INFO logger_File - User selects cancelation reason
+2023-08-02 12:27:40,010 [main] INFO logger_File - User click on Cancel Order Button successfully
+2023-08-02 12:27:40,158 [main] INFO logger_File - Cancelation Message is Displayed
+2023-08-02 12:28:03,175 [main] INFO logger_File - User is on retail website
+2023-08-02 12:28:03,452 [main] INFO logger_File - User click on Sign in option
+2023-08-02 12:28:03,709 [main] INFO logger_File - User enetered email and password successfully
+2023-08-02 12:28:03,797 [main] INFO logger_File - User click on login button
+2023-08-02 12:28:04,044 [main] INFO logger_File - User is logged into account
+2023-08-02 12:28:04,199 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-02 12:28:04,325 [main] INFO logger_File - User clicked on first order on the list
+2023-08-02 12:28:55,491 [main] INFO logger_File - User is on retail website
+2023-08-02 12:28:55,633 [main] INFO logger_File - User click on Sign in option
+2023-08-02 12:28:55,912 [main] INFO logger_File - User enetered email and password successfully
+2023-08-02 12:28:56,000 [main] INFO logger_File - User click on login button
+2023-08-02 12:28:56,239 [main] INFO logger_File - User is logged into account
+2023-08-02 12:28:56,358 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-02 12:28:56,527 [main] INFO logger_File - User clicked on first order on the list
+2023-08-02 12:28:56,658 [main] INFO logger_File - User clicked on return items button successfully
+2023-08-02 12:28:56,757 [main] INFO logger_File - User select the return reason
+2023-08-02 12:28:56,850 [main] INFO logger_File - User select the FedEx drop off
+2023-08-02 12:28:56,940 [main] INFO logger_File - User clicked on return Order Button successfully
+2023-08-02 12:32:49,932 [main] INFO logger_File - User is on retail website
+2023-08-02 12:32:50,262 [main] INFO logger_File - User click on Sign in option
+2023-08-02 12:32:50,506 [main] INFO logger_File - User enetered email and password successfully
+2023-08-02 12:32:50,593 [main] INFO logger_File - User click on login button
+2023-08-02 12:32:50,876 [main] INFO logger_File - User is logged into account
+2023-08-02 12:32:50,987 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-02 12:32:51,166 [main] INFO logger_File - User clicked on first order on the list
+2023-08-02 12:32:51,309 [main] INFO logger_File - User clicked on return items button successfully
+2023-08-02 12:32:51,441 [main] INFO logger_File - User select the return reason
+2023-08-02 12:32:51,556 [main] INFO logger_File - User select the FedEx drop off
+2023-08-02 12:32:51,639 [main] INFO logger_File - User clicked on return Order Button successfully
+2023-08-02 12:34:36,087 [main] INFO logger_File - User is on retail website
+2023-08-02 12:34:36,351 [main] INFO logger_File - User click on Sign in option
+2023-08-02 12:34:36,608 [main] INFO logger_File - User enetered email and password successfully
+2023-08-02 12:34:36,694 [main] INFO logger_File - User click on login button
+2023-08-02 12:34:37,145 [main] INFO logger_File - User is logged into account
+2023-08-02 12:34:37,271 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-02 12:34:37,415 [main] INFO logger_File - User clicked on first order on the list
+2023-08-02 12:34:37,563 [main] INFO logger_File - User clicked on Cancel the Order button successfully
+2023-08-02 12:34:37,661 [main] INFO logger_File - User selects cancelation reason
+2023-08-02 12:34:37,761 [main] INFO logger_File - User click on Cancel Order Button successfully
+2023-08-02 12:34:37,922 [main] INFO logger_File - Cancelation Message is Displayed
+2023-08-02 12:37:32,527 [main] INFO logger_File - User is on retail website
+2023-08-02 12:37:32,690 [main] INFO logger_File - User click on Sign in option
+2023-08-02 12:37:32,965 [main] INFO logger_File - User enetered email and password successfully
+2023-08-02 12:37:33,057 [main] INFO logger_File - User click on login button
+2023-08-02 12:37:33,309 [main] INFO logger_File - User is logged into account
+2023-08-02 12:37:33,488 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-02 12:37:33,617 [main] INFO logger_File - User clicked on first order on the list
+2023-08-02 12:37:33,747 [main] INFO logger_File - User clicked on return items button successfully
+2023-08-02 12:37:33,847 [main] INFO logger_File - User select the return reason
+2023-08-02 12:37:33,946 [main] INFO logger_File - User select the FedEx drop off
+2023-08-02 12:37:34,037 [main] INFO logger_File - User clicked on return Order Button successfully
+2023-08-02 12:51:17,532 [main] INFO logger_File - User is on retail website
+2023-08-02 12:51:17,827 [main] INFO logger_File - User click on Sign in option
+2023-08-02 12:51:18,086 [main] INFO logger_File - User enetered email and password successfully
+2023-08-02 12:51:18,174 [main] INFO logger_File - User click on login button
+2023-08-02 12:51:18,446 [main] INFO logger_File - User is logged into account
+2023-08-02 12:51:18,573 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-02 12:51:18,767 [main] INFO logger_File - User clicked on first order on the list
+2023-08-02 12:52:29,278 [main] INFO logger_File - User is on retail website
+2023-08-02 12:52:29,548 [main] INFO logger_File - User click on Sign in option
+2023-08-02 12:52:29,802 [main] INFO logger_File - User enetered email and password successfully
+2023-08-02 12:52:29,888 [main] INFO logger_File - User click on login button
+2023-08-02 12:52:30,201 [main] INFO logger_File - User is logged into account
+2023-08-02 12:52:30,389 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-02 12:52:30,516 [main] INFO logger_File - User clicked on first order on the list
+2023-08-02 12:52:30,663 [main] INFO logger_File - User clicked on return items button successfully
+2023-08-02 12:52:30,794 [main] INFO logger_File - User select the return reason
+2023-08-02 12:52:30,883 [main] INFO logger_File - User select the FedEx drop off
+2023-08-02 12:52:30,964 [main] INFO logger_File - User clicked on return Order Button successfully
+2023-08-02 13:02:19,430 [main] INFO logger_File - User is on retail website
+2023-08-02 13:02:20,091 [main] INFO logger_File - User click on Sign in option
+2023-08-02 13:02:21,205 [main] INFO logger_File - User enetered email and password successfully
+2023-08-02 13:02:21,478 [main] INFO logger_File - User click on login button
+2023-08-02 13:02:21,723 [main] INFO logger_File - User is logged into account
+2023-08-02 13:02:21,982 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-02 13:02:22,711 [main] INFO logger_File - User clicked on first order on the list
+2023-08-02 13:02:22,842 [main] INFO logger_File - User clicked on return items button successfully
+2023-08-02 13:02:23,161 [main] INFO logger_File - User select the return reason
+2023-08-02 13:02:23,275 [main] INFO logger_File - User select the FedEx drop off
+2023-08-02 13:02:23,356 [main] INFO logger_File - User clicked on return Order Button successfully
+2023-08-02 13:04:58,801 [main] INFO logger_File - User is on retail website
+2023-08-02 13:04:59,221 [main] INFO logger_File - User click on Sign in option
+2023-08-02 13:04:59,521 [main] INFO logger_File - User enetered email and password successfully
+2023-08-02 13:04:59,614 [main] INFO logger_File - User click on login button
+2023-08-02 13:04:59,853 [main] INFO logger_File - User is logged into account
+2023-08-02 13:05:00,095 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-02 13:05:00,225 [main] INFO logger_File - User clicked on first order on the list
+2023-08-02 13:05:00,356 [main] INFO logger_File - User clicked on return items button successfully
+2023-08-02 13:05:00,462 [main] INFO logger_File - User select the return reason
+2023-08-02 13:05:00,561 [main] INFO logger_File - User select the FedEx drop off
+2023-08-02 13:05:00,655 [main] INFO logger_File - User clicked on return Order Button successfully
+2023-08-02 13:06:59,746 [main] INFO logger_File - User is on retail website
+2023-08-02 13:06:59,983 [main] INFO logger_File - User click on Sign in option
+2023-08-02 13:07:00,534 [main] INFO logger_File - User enetered email and password successfully
+2023-08-02 13:07:00,696 [main] INFO logger_File - User click on login button
+2023-08-02 13:07:01,016 [main] INFO logger_File - User is logged into account
+2023-08-02 13:07:01,134 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-02 13:07:01,348 [main] INFO logger_File - User clicked on first order on the list
+2023-08-02 13:07:01,606 [main] INFO logger_File - User clicked on return items button successfully
+2023-08-02 13:07:01,791 [main] INFO logger_File - User select the return reason
+2023-08-02 13:07:01,884 [main] INFO logger_File - User select the FedEx drop off
+2023-08-02 13:07:01,968 [main] INFO logger_File - User clicked on return Order Button successfully
+2023-08-02 13:10:02,412 [main] INFO logger_File - User is on retail website
+2023-08-02 13:10:02,567 [main] INFO logger_File - User click on Sign in option
+2023-08-02 13:10:02,824 [main] INFO logger_File - User enetered email and password successfully
+2023-08-02 13:10:02,906 [main] INFO logger_File - User click on login button
+2023-08-02 13:10:03,203 [main] INFO logger_File - User is logged into account
+2023-08-02 13:10:03,332 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-02 13:10:03,500 [main] INFO logger_File - User clicked on first order on the list
+2023-08-02 13:10:03,649 [main] INFO logger_File - User clicked on return items button successfully
+2023-08-02 13:10:03,755 [main] INFO logger_File - User select the return reason
+2023-08-02 13:10:03,851 [main] INFO logger_File - User select the FedEx drop off
+2023-08-02 13:10:03,937 [main] INFO logger_File - User clicked on return Order Button successfully
+2023-08-02 13:12:56,840 [main] INFO logger_File - User is on retail website
+2023-08-02 13:12:57,025 [main] INFO logger_File - User click on Sign in option
+2023-08-02 13:12:57,299 [main] INFO logger_File - User enetered email and password successfully
+2023-08-02 13:12:57,383 [main] INFO logger_File - User click on login button
+2023-08-02 13:12:57,743 [main] INFO logger_File - User is logged into account
+2023-08-02 13:12:57,916 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-02 13:12:58,046 [main] INFO logger_File - User clicked on first order on the list
+2023-08-02 13:12:58,190 [main] INFO logger_File - User clicked on return items button successfully
+2023-08-02 13:12:58,292 [main] INFO logger_File - User select the return reason
+2023-08-02 13:12:58,385 [main] INFO logger_File - User select the FedEx drop off
+2023-08-02 13:12:58,477 [main] INFO logger_File - User clicked on return Order Button successfully
+2023-08-02 15:24:06,862 [main] INFO logger_File - User is on retail website
+2023-08-02 15:24:07,076 [main] INFO logger_File - User click on Sign in option
+2023-08-02 15:24:07,393 [main] INFO logger_File - User enetered email and password successfully
+2023-08-02 15:24:07,521 [main] INFO logger_File - User click on login button
+2023-08-02 15:24:07,777 [main] INFO logger_File - User is logged into account
+2023-08-02 15:24:08,235 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-02 15:24:08,352 [main] INFO logger_File - User clicked on first order on the list
+2023-08-02 15:24:08,493 [main] INFO logger_File - User clicked on return items button successfully
+2023-08-02 15:24:08,668 [main] INFO logger_File - User select the return reason
+2023-08-02 15:24:08,768 [main] INFO logger_File - User select the FedEx drop off
+2023-08-02 15:24:08,860 [main] INFO logger_File - User clicked on return Order Button successfully
+2023-08-02 15:24:09,048 [main] INFO logger_File - Comformation Message is Displayed
+2023-08-02 15:26:02,988 [main] INFO logger_File - User is on retail website
+2023-08-02 15:26:03,200 [main] INFO logger_File - User click on Sign in option
+2023-08-02 15:26:03,466 [main] INFO logger_File - User enetered email and password successfully
+2023-08-02 15:26:03,557 [main] INFO logger_File - User click on login button
+2023-08-02 15:26:03,833 [main] INFO logger_File - User is logged into account
+2023-08-02 15:26:04,104 [main] INFO logger_File - User clicked on Orders section successfully
+2023-08-02 15:26:04,244 [main] INFO logger_File - User clicked on first order on the list
+2023-08-02 15:26:04,521 [main] INFO logger_File - User clicked on return items button successfully
+2023-08-02 15:26:04,628 [main] INFO logger_File - User select the return reason
+2023-08-02 15:26:04,723 [main] INFO logger_File - User select the FedEx drop off
+2023-08-02 15:26:04,805 [main] INFO logger_File - User clicked on return Order Button successfully
+2023-08-02 15:26:05,054 [main] INFO logger_File - Comformation Message is Displayed
+2023-08-23 19:36:14,654 [main] INFO logger_File - TekSchool logo is displayed
+2023-08-23 19:36:15,120 [main] INFO logger_File - User clicked on All section successfully
+2023-08-23 19:36:15,421 [main] INFO logger_File - The options TV & Video is present
+2023-08-23 19:36:15,487 [main] INFO logger_File - The options Video Games is present
+2023-08-23 19:36:21,566 [main] INFO logger_File - TekSchool logo is displayed
+2023-08-23 19:36:21,862 [main] INFO logger_File - User clicked on All section successfully
+2023-08-23 19:36:22,129 [main] INFO logger_File - The options Accessories is present
+2023-08-23 19:36:22,188 [main] INFO logger_File - The options Networking is present
+2023-08-23 19:36:27,780 [main] INFO logger_File - TekSchool logo is displayed
+2023-08-23 19:36:27,944 [main] INFO logger_File - User clicked on All section successfully
+2023-08-23 19:36:28,259 [main] INFO logger_File - The options Smart Home Lightning is present
+2023-08-23 19:36:28,394 [main] INFO logger_File - The options Plugs and Outlets is present
+2023-08-23 19:36:35,262 [main] INFO logger_File - TekSchool logo is displayed
+2023-08-23 19:36:35,370 [main] INFO logger_File - User clicked on All section successfully
+2023-08-23 19:36:35,703 [main] INFO logger_File - The options Athletic Clothing is present
+2023-08-23 19:36:35,762 [main] INFO logger_File - The options Exercise & Fitness is present
+2023-08-23 19:36:44,113 [main] INFO logger_File - TekSchool logo is displayed
+2023-08-23 19:36:44,244 [main] INFO logger_File - User clicked on All section successfully
+2023-08-23 19:38:17,546 [main] INFO logger_File - TekSchool logo is displayed
+2023-08-23 19:38:17,776 [main] INFO logger_File - User clicked on All section successfully
+2023-08-23 19:38:17,839 [main] INFO logger_File - Options Electronics is displayed
+2023-08-23 19:38:17,876 [main] INFO logger_File - Options Computers is displayed
+2023-08-23 19:38:17,898 [main] INFO logger_File - Options Smart Home is displayed
+2023-08-23 19:38:17,922 [main] INFO logger_File - Options Sports is displayed
+2023-08-23 19:38:17,944 [main] INFO logger_File - Options Automative is displayed
+2023-08-23 19:46:35,176 [main] INFO logger_File - User is on retail website
+2023-08-23 19:46:35,296 [main] INFO logger_File - User click on Sign in option
+2023-08-23 19:46:35,693 [main] INFO logger_File - User enetered email and password successfully
+2023-08-23 19:46:35,777 [main] INFO logger_File - User click on login button
+2023-08-23 19:46:36,198 [main] INFO logger_File - User is logged into account
+2023-08-23 19:46:36,485 [main] INFO logger_File - Account link was clicked successfully
+2023-08-23 19:46:36,868 [main] INFO logger_File - Add Address Link was clicked successfully
+2023-08-23 19:46:38,353 [main] INFO logger_File - User fills and update address info successfully
+2023-08-23 19:47:37,597 [main] INFO logger_File - User is on retail website
+2023-08-23 19:47:37,790 [main] INFO logger_File - User click on Sign in option
+2023-08-23 19:47:38,113 [main] INFO logger_File - User enetered email and password successfully
+2023-08-23 19:47:38,199 [main] INFO logger_File - User click on login button
+2023-08-23 19:47:38,508 [main] INFO logger_File - User is logged into account
+2023-08-23 19:47:38,642 [main] INFO logger_File - Account link was clicked successfully
+2023-08-23 19:47:39,615 [main] INFO logger_File - User clicked on edit address option sucessfully
+2023-08-23 19:47:41,424 [main] INFO logger_File - User fills and update address info successfully
+2023-08-23 19:47:41,626 [main] INFO logger_File - User updated addresss info successfully
+2023-08-23 19:57:27,808 [main] INFO logger_File - User is on retail website
+2023-08-23 19:57:27,928 [main] INFO logger_File - User click on Sign in option
+2023-08-23 19:57:28,268 [main] INFO logger_File - User enetered email and password successfully
+2023-08-23 19:57:28,391 [main] INFO logger_File - User click on login button
+2023-08-23 19:57:28,686 [main] INFO logger_File - User is logged into account
+2023-08-23 19:57:28,905 [main] INFO logger_File - Account link was clicked successfully
+2023-08-23 19:57:29,036 [main] INFO logger_File - User clicked on edit address option sucessfully
+2023-08-23 19:57:30,456 [main] INFO logger_File - User fills and update address info successfully
+2023-08-23 19:57:30,542 [main] INFO logger_File - User updated addresss info successfully
+2023-08-23 19:59:30,146 [main] INFO logger_File - User is on retail website
+2023-08-23 19:59:30,283 [main] INFO logger_File - User click on Sign in option
+2023-08-23 19:59:30,539 [main] INFO logger_File - User enetered email and password successfully
+2023-08-23 19:59:30,626 [main] INFO logger_File - User click on login button
+2023-08-23 19:59:30,843 [main] INFO logger_File - User is logged into account
+2023-08-23 19:59:30,986 [main] INFO logger_File - Account link was clicked successfully
+2023-08-23 19:59:31,176 [main] INFO logger_File - Add Address Link was clicked successfully
+2023-08-23 19:59:33,688 [main] INFO logger_File - Address form was filled out successfully
+2023-08-23 20:00:07,291 [main] INFO logger_File - User is on retail website
+2023-08-23 20:00:07,411 [main] INFO logger_File - User click on Sign in option
+2023-08-23 20:00:07,721 [main] INFO logger_File - User enetered email and password successfully
+2023-08-23 20:00:07,828 [main] INFO logger_File - User click on login button
+2023-08-23 20:00:08,140 [main] INFO logger_File - User is logged into account
+2023-08-23 20:00:08,342 [main] INFO logger_File - Account link was clicked successfully
+2023-08-23 20:00:08,485 [main] INFO logger_File - Add Address Link was clicked successfully
+2023-08-23 20:00:09,695 [main] INFO logger_File - Address form was filled out successfully
+2023-08-23 20:02:41,806 [main] INFO logger_File - User is on retail website
+2023-08-23 20:02:41,927 [main] INFO logger_File - User click on Sign in option
+2023-08-23 20:02:42,221 [main] INFO logger_File - User enetered email and password successfully
+2023-08-23 20:02:42,302 [main] INFO logger_File - User click on login button
+2023-08-23 20:02:42,539 [main] INFO logger_File - User is logged into account
+2023-08-23 20:02:42,744 [main] INFO logger_File - Account link was clicked successfully
+2023-08-23 20:02:42,873 [main] INFO logger_File - Address Added Successfully
+2023-08-23 20:02:44,144 [main] INFO logger_File - Address form was filled out successfully
+2023-08-23 20:05:49,202 [main] INFO logger_File - User is on retail website
+2023-08-23 20:05:49,324 [main] INFO logger_File - User click on Sign in option
+2023-08-23 20:05:49,618 [main] INFO logger_File - User enetered email and password successfully
+2023-08-23 20:05:49,701 [main] INFO logger_File - User click on login button
+2023-08-23 20:05:49,962 [main] INFO logger_File - User is logged into account
+2023-08-23 20:05:50,319 [main] INFO logger_File - Account link was clicked successfully
+2023-08-23 20:05:50,448 [main] INFO logger_File - Address Added Successfully
+2023-08-23 20:05:51,686 [main] INFO logger_File - Address form was filled out successfully
+2023-08-23 20:08:35,982 [main] INFO logger_File - User is on retail website
+2023-08-23 20:08:36,094 [main] INFO logger_File - User click on Sign in option
+2023-08-23 20:08:36,376 [main] INFO logger_File - User enetered email and password successfully
+2023-08-23 20:08:36,478 [main] INFO logger_File - User click on login button
+2023-08-23 20:08:36,714 [main] INFO logger_File - User is logged into account
+2023-08-23 20:08:36,876 [main] INFO logger_File - Account link was clicked successfully
+2023-08-23 20:08:37,036 [main] INFO logger_File - User clicked on edit address option successfully
+2023-08-23 20:08:38,450 [main] INFO logger_File - User fills and update address info successfully
+2023-08-23 20:08:38,536 [main] INFO logger_File - User updated address info successfully
+2023-08-23 20:14:08,797 [main] INFO logger_File - User is on retail website
+2023-08-23 20:14:08,949 [main] INFO logger_File - User click on Sign in option
+2023-08-23 20:14:09,289 [main] INFO logger_File - User enetered email and password successfully
+2023-08-23 20:14:09,376 [main] INFO logger_File - User click on login button
+2023-08-23 20:14:09,674 [main] INFO logger_File - User is logged into account
+2023-08-23 20:14:09,850 [main] INFO logger_File - Account link was clicked successfully
+2023-08-23 20:14:09,980 [main] INFO logger_File - Address Added Successfully
+2023-08-23 20:14:11,205 [main] INFO logger_File - Address form was filled out successfully
+2023-08-23 20:16:54,006 [main] INFO logger_File - User is on retail website
+2023-08-23 20:16:54,148 [main] INFO logger_File - User click on Sign in option
+2023-08-23 20:16:54,450 [main] INFO logger_File - User enetered email and password successfully
+2023-08-23 20:16:54,549 [main] INFO logger_File - User click on login button
+2023-08-23 20:16:54,816 [main] INFO logger_File - User is logged into account
+2023-08-23 20:16:55,018 [main] INFO logger_File - Account link was clicked successfully
+2023-08-23 20:20:01,013 [main] INFO logger_File - User is on retail website
+2023-08-23 20:20:01,159 [main] INFO logger_File - User click on Sign in option
+2023-08-23 20:20:01,449 [main] INFO logger_File - User enetered email and password successfully
+2023-08-23 20:20:01,541 [main] INFO logger_File - User click on login button
+2023-08-23 20:20:01,798 [main] INFO logger_File - User is logged into account
+2023-08-23 20:20:01,984 [main] INFO logger_File - Account link was clicked successfully
+2023-08-23 20:22:53,353 [main] INFO logger_File - User is on retail website
+2023-08-23 20:22:53,467 [main] INFO logger_File - User click on Sign in option
+2023-08-23 20:22:53,746 [main] INFO logger_File - User enetered email and password successfully
+2023-08-23 20:22:53,828 [main] INFO logger_File - User click on login button
+2023-08-23 20:22:54,091 [main] INFO logger_File - User is logged into account
+2023-08-23 20:22:54,453 [main] INFO logger_File - Account link was clicked successfully
+2023-08-23 20:23:47,225 [main] INFO logger_File - User is on retail website
+2023-08-23 20:23:47,498 [main] INFO logger_File - User click on Sign in option
+2023-08-23 20:23:47,746 [main] INFO logger_File - User enetered email and password successfully
+2023-08-23 20:23:47,828 [main] INFO logger_File - User click on login button
+2023-08-23 20:23:48,071 [main] INFO logger_File - User is logged into account
+2023-08-23 20:23:48,239 [main] INFO logger_File - Account link was clicked successfully
+2023-08-23 20:25:27,495 [main] INFO logger_File - User is on retail website
+2023-08-23 20:25:27,614 [main] INFO logger_File - User click on Sign in option
+2023-08-23 20:25:27,890 [main] INFO logger_File - User enetered email and password successfully
+2023-08-23 20:25:27,973 [main] INFO logger_File - User click on login button
+2023-08-23 20:25:28,217 [main] INFO logger_File - User is logged into account
+2023-08-23 20:25:28,383 [main] INFO logger_File - Account link was clicked successfully
+2023-08-23 20:36:14,348 [main] INFO logger_File - User is on retail website
+2023-08-23 20:36:14,686 [main] INFO logger_File - User click on Sign in option
+2023-08-23 20:36:14,925 [main] INFO logger_File - User enetered email and password successfully
+2023-08-23 20:36:15,013 [main] INFO logger_File - User click on login button
+2023-08-23 20:36:15,283 [main] INFO logger_File - User is logged into account
+2023-08-23 20:36:15,439 [main] INFO logger_File - Account link was clicked successfully
+2023-08-23 20:41:19,181 [main] INFO logger_File - User is on retail website
+2023-08-23 20:41:19,343 [main] INFO logger_File - User click on Sign in option
+2023-08-23 20:41:19,618 [main] INFO logger_File - User enetered email and password successfully
+2023-08-23 20:41:19,715 [main] INFO logger_File - User click on login button
+2023-08-23 20:41:20,006 [main] INFO logger_File - User is logged into account
+2023-08-23 20:41:20,201 [main] INFO logger_File - Account link was clicked successfully
+2023-08-23 20:49:03,372 [main] INFO logger_File - User is on retail website
+2023-08-23 20:49:03,492 [main] INFO logger_File - User click on Sign in option
+2023-08-23 20:49:03,790 [main] INFO logger_File - User enetered email and password successfully
+2023-08-23 20:49:03,890 [main] INFO logger_File - User click on login button
+2023-08-23 20:49:04,141 [main] INFO logger_File - User is logged into account
+2023-08-23 20:49:04,425 [main] INFO logger_File - Account link was clicked successfully
+2023-08-23 20:50:33,121 [main] INFO logger_File - User is on retail website
+2023-08-23 20:50:33,374 [main] INFO logger_File - User click on Sign in option
+2023-08-23 20:50:33,619 [main] INFO logger_File - User enetered email and password successfully
+2023-08-23 20:50:33,706 [main] INFO logger_File - User click on login button
+2023-08-23 20:50:33,991 [main] INFO logger_File - User is logged into account
+2023-08-23 20:50:34,145 [main] INFO logger_File - Account link was clicked successfully
+2023-08-23 20:54:56,727 [main] INFO logger_File - User is on retail website
+2023-08-23 20:54:56,883 [main] INFO logger_File - User click on Sign in option
+2023-08-23 20:54:57,229 [main] INFO logger_File - User enetered email and password successfully
+2023-08-23 20:54:57,311 [main] INFO logger_File - User click on login button
+2023-08-23 20:54:57,582 [main] INFO logger_File - User is logged into account
+2023-08-23 20:54:57,742 [main] INFO logger_File - Account link was clicked successfully
+2023-08-23 21:03:39,701 [main] INFO logger_File - User is on retail website
+2023-08-23 21:03:39,854 [main] INFO logger_File - User click on Sign in option
+2023-08-23 21:03:40,119 [main] INFO logger_File - User enetered email and password successfully
+2023-08-23 21:03:40,206 [main] INFO logger_File - User click on login button
+2023-08-23 21:03:40,932 [main] INFO logger_File - User is logged into account
+2023-08-23 21:03:41,099 [main] INFO logger_File - Account link was clicked successfully
+2023-08-23 21:03:41,232 [main] INFO logger_File - Add Address clicked Successfully
+2023-08-23 21:03:43,981 [main] INFO logger_File - Address form was filled out successfully
+2023-08-23 21:03:44,506 [main] INFO logger_File - Address Added Successfully
+2023-08-23 21:03:44,683 [main] INFO logger_File - Expected Message: Address Added Successfully
+2023-08-23 21:04:37,994 [main] INFO logger_File - User is on retail website
+2023-08-23 21:04:38,308 [main] INFO logger_File - User click on Sign in option
+2023-08-23 21:04:38,548 [main] INFO logger_File - User enetered email and password successfully
+2023-08-23 21:04:38,635 [main] INFO logger_File - User click on login button
+2023-08-23 21:04:38,879 [main] INFO logger_File - User is logged into account
+2023-08-23 21:04:39,032 [main] INFO logger_File - Account link was clicked successfully
+2023-08-23 21:04:39,158 [main] INFO logger_File - User clicked on edit address option successfully
+2023-08-23 21:05:37,624 [main] INFO logger_File - User is on retail website
+2023-08-23 21:05:37,755 [main] INFO logger_File - User click on Sign in option
+2023-08-23 21:05:38,077 [main] INFO logger_File - User enetered email and password successfully
+2023-08-23 21:05:38,165 [main] INFO logger_File - User click on login button
+2023-08-23 21:05:38,394 [main] INFO logger_File - User is logged into account
+2023-08-23 21:05:38,583 [main] INFO logger_File - Account link was clicked successfully
+2023-08-23 21:05:39,260 [main] INFO logger_File - User clicked on edit address option successfully
+2023-08-23 21:06:49,782 [main] INFO logger_File - User is on retail website
+2023-08-23 21:06:49,915 [main] INFO logger_File - User click on Sign in option
+2023-08-23 21:06:50,193 [main] INFO logger_File - User enetered email and password successfully
+2023-08-23 21:06:50,282 [main] INFO logger_File - User click on login button
+2023-08-23 21:06:50,637 [main] INFO logger_File - User is logged into account
+2023-08-23 21:06:50,795 [main] INFO logger_File - Account link was clicked successfully
+2023-08-23 21:06:52,055 [main] INFO logger_File - User clicked on edit address option successfully
+2023-08-23 21:06:53,527 [main] INFO logger_File - User fills and update address info successfully
+2023-08-23 21:06:53,635 [main] INFO logger_File - User updated address info successfully
+2023-08-24 09:44:12,955 [main] INFO logger_File - User is on retail website
+2023-08-24 09:44:13,501 [main] INFO logger_File - User click on Sign in option
+2023-08-24 09:44:14,153 [main] INFO logger_File - User enetered email and password successfully
+2023-08-24 09:44:14,240 [main] INFO logger_File - User click on login button
+2023-08-24 09:44:14,552 [main] INFO logger_File - User is logged into account
+2023-08-24 09:44:14,932 [main] INFO logger_File - Account link was clicked successfully
+2023-08-24 09:44:15,360 [main] INFO logger_File - Add Address clicked Successfully
+2023-08-24 09:44:18,119 [main] INFO logger_File - Address form was filled out successfully
+2023-08-24 09:44:19,504 [main] INFO logger_File - Address Added Successfully
+2023-08-24 09:44:19,760 [main] INFO logger_File - Expected Message: Address Added Successfully
+2023-08-24 09:46:05,601 [main] INFO logger_File - User is on retail website
+2023-08-24 09:46:05,885 [main] INFO logger_File - User click on Sign in option
+2023-08-24 09:46:06,139 [main] INFO logger_File - User enetered email and password successfully
+2023-08-24 09:46:06,226 [main] INFO logger_File - User click on login button
+2023-08-24 09:46:06,530 [main] INFO logger_File - User is logged into account
+2023-08-24 09:46:06,689 [main] INFO logger_File - Account link was clicked successfully
+2023-08-24 09:46:06,808 [main] INFO logger_File - User clicked on edit address option successfully
+2023-08-24 09:46:08,287 [main] INFO logger_File - User fills and update address info successfully
+2023-08-24 09:46:08,399 [main] INFO logger_File - User updated address info successfully
+2023-08-24 09:46:57,805 [main] INFO logger_File - User is on retail website
+2023-08-24 09:46:57,928 [main] INFO logger_File - User click on Sign in option
+2023-08-24 09:46:58,354 [main] INFO logger_File - User enetered email and password successfully
+2023-08-24 09:46:58,447 [main] INFO logger_File - User click on login button
+2023-08-24 09:46:58,716 [main] INFO logger_File - User is logged into account
+2023-08-24 09:46:58,890 [main] INFO logger_File - Account link was clicked successfully
+2023-08-24 09:46:58,996 [main] INFO logger_File - User clicked on remove address option sucessfully
+2023-08-24 09:46:59,020 [main] INFO logger_File - Address details are removed successfully
+2023-08-24 09:47:57,835 [main] INFO logger_File - User is on retail website
+2023-08-24 09:47:58,008 [main] INFO logger_File - User click on Sign in option
+2023-08-24 09:47:58,372 [main] INFO logger_File - User enetered email and password successfully
+2023-08-24 09:47:58,460 [main] INFO logger_File - User click on login button
+2023-08-24 09:47:58,734 [main] INFO logger_File - User is logged into account
+2023-08-24 09:47:58,910 [main] INFO logger_File - Account link was clicked successfully
+2023-08-24 09:47:59,097 [main] INFO logger_File - Name was entered successfully
+2023-08-24 09:47:59,281 [main] INFO logger_File - Phone number entered succcessfully
+2023-08-24 09:47:59,378 [main] INFO logger_File - Update button was clicked successfully
+2023-08-24 09:48:27,757 [main] INFO logger_File - User is on retail website
+2023-08-24 09:48:27,903 [main] INFO logger_File - User click on Sign in option
+2023-08-24 09:48:28,261 [main] INFO logger_File - User enetered email and password successfully
+2023-08-24 09:48:28,373 [main] INFO logger_File - User click on login button
+2023-08-24 09:48:28,633 [main] INFO logger_File - User is logged into account
+2023-08-24 09:48:28,820 [main] INFO logger_File - Account link was clicked successfully
+2023-08-24 09:48:29,007 [main] INFO logger_File - Name was entered successfully
+2023-08-24 09:48:29,202 [main] INFO logger_File - Phone number entered succcessfully
+2023-08-24 09:48:29,293 [main] INFO logger_File - Update button was clicked successfully
+2023-08-24 09:48:29,938 [main] INFO logger_File - Account information was updated successfully
+2023-08-24 09:49:04,403 [main] INFO logger_File - User is on retail website
+2023-08-24 09:49:04,520 [main] INFO logger_File - User click on Sign in option
+2023-08-24 09:49:04,848 [main] INFO logger_File - User enetered email and password successfully
+2023-08-24 09:49:04,942 [main] INFO logger_File - User click on login button
+2023-08-24 09:49:05,223 [main] INFO logger_File - User is logged into account
+2023-08-24 09:49:05,408 [main] INFO logger_File - Account link was clicked successfully
+2023-08-24 09:49:05,510 [main] INFO logger_File - Add payment link clicked successfully
+2023-08-24 09:49:06,089 [main] INFO logger_File - Payment information was entered successfully
+2023-08-24 09:49:06,172 [main] INFO logger_File - Payment Method Submit bttn clicked successfully
+2023-08-24 09:49:31,339 [main] INFO logger_File - User is on retail website
+2023-08-24 09:49:31,477 [main] INFO logger_File - User click on Sign in option
+2023-08-24 09:49:31,804 [main] INFO logger_File - User enetered email and password successfully
+2023-08-24 09:49:31,890 [main] INFO logger_File - User click on login button
+2023-08-24 09:49:32,149 [main] INFO logger_File - User is logged into account
+2023-08-24 09:49:32,331 [main] INFO logger_File - Account link was clicked successfully
+2023-08-24 09:49:33,093 [main] INFO logger_File - User clicked on Edit option successfully
+2023-08-24 09:49:33,836 [main] INFO logger_File - User edited inforamtion successfully
+2023-08-24 09:49:33,866 [main] INFO logger_File - Payment Method updated Successfully
+2023-08-24 09:52:59,054 [main] INFO logger_File - User is on retail website
+2023-08-24 09:52:59,195 [main] INFO logger_File - User click on Sign in option
+2023-08-24 09:52:59,506 [main] INFO logger_File - User enetered email and password successfully
+2023-08-24 09:52:59,608 [main] INFO logger_File - User click on login button
+2023-08-24 09:52:59,869 [main] INFO logger_File - User is logged into account
+2023-08-24 09:53:00,065 [main] INFO logger_File - Account link was clicked successfully
+2023-08-24 09:53:00,849 [main] INFO logger_File - User clicked on Edit option successfully
+2023-08-24 09:53:01,614 [main] INFO logger_File - User edited inforamtion successfully
+2023-08-24 09:53:01,645 [main] INFO logger_File - Payment Method updated Successfully
+2023-08-24 09:56:49,998 [main] INFO logger_File - User is on retail website
+2023-08-24 09:56:50,152 [main] INFO logger_File - User click on Sign in option
+2023-08-24 09:56:50,400 [main] INFO logger_File - User enetered email and password successfully
+2023-08-24 09:56:50,484 [main] INFO logger_File - User click on login button
+2023-08-24 09:56:50,715 [main] INFO logger_File - User is logged into account
+2023-08-24 09:56:51,058 [main] INFO logger_File - Account link was clicked successfully
+2023-08-24 09:56:51,267 [main] INFO logger_File - User clicked on Edit option successfully
+2023-08-24 09:56:52,009 [main] INFO logger_File - User edited inforamtion successfully
+2023-08-24 09:56:52,040 [main] INFO logger_File - Payment Method updated Successfully
+2023-08-24 17:15:32,939 [main] INFO logger_File - User is on retail website
+2023-08-24 17:15:33,219 [main] INFO logger_File - User click on Sign in option
+2023-08-24 17:15:33,548 [main] INFO logger_File - User enetered email and password successfully
+2023-08-24 17:15:33,641 [main] INFO logger_File - User click on login button
+2023-08-24 17:15:33,890 [main] INFO logger_File - User is logged into account
+2023-08-24 17:15:34,228 [main] INFO logger_File - Account link was clicked successfully
+2023-08-24 17:15:34,429 [main] INFO logger_File - User clicked on Edit option successfully
+2023-08-24 17:15:35,217 [main] INFO logger_File - User edited inforamtion successfully
+2023-08-24 17:15:35,246 [main] INFO logger_File - Payment Method updated Successfully
