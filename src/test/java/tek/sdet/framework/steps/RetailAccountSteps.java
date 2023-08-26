@@ -49,7 +49,7 @@ public class RetailAccountSteps extends CommonUtility {
 		String expectedMssg = "Personal Information Updated Successfully";
 		String actualMssg = pomFactory.accountPage().personalInfoUpdateSuccessMssg.getText();
 		Assert.assertEquals(expectedMssg, actualMssg);
-		logger.info("Account information was updated successfully");
+		logger.info("Personal Information Updated Successfully");
 
 	}
 

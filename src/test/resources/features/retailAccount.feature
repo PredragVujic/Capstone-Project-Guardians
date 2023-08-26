@@ -1,3 +1,4 @@
+@Regression
 Feature: Retail Account Page
 ​
 Background:
@@ -10,7 +11,7 @@ Background:
 
 @updatePI    
 Scenario: Verify User can update Profile Information
-    And User update Name 'DragonOOB' and Phone '0987654321'
+    And User update Name 'DragonOOB' and Phone '0937654321'
     And User click on Update button
     Then user profile information should be updated
     
@@ -28,7 +29,7 @@ Scenario: Verify User can edit Debit or Credit card
     And User click on Edit option of card section
     And user edit information with below data
     |cardNumber|nameOnCard|expirationMonth|expirationYear|securityCode|
-    |2222333344441111|JojoMaTheChmar|11|2029|221|
+    |2222333344441111|JojoMaTheChmar|10|2029|221|
     And user click on Update Your Card button
     Then a message should be displayed 'Payment Method updated Successfully'
 
