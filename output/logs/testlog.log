@@ -1418,3 +1418,231 @@
 2023-08-26 15:44:12,373 - logger_File -INFO - Account link was clicked successfully
 2023-08-26 15:44:13,033 - logger_File -INFO - User clicked on remove address option sucessfully
 2023-08-26 15:44:13,056 - logger_File -INFO - Address details are removed successfully
+2023-08-28 15:25:27,879 - logger_File -INFO - User is on retail website
+2023-08-28 15:25:28,153 - logger_File -INFO - User click on Sign in option
+2023-08-28 15:25:28,386 - logger_File -INFO - User enetered email and password successfully
+2023-08-28 15:25:28,477 - logger_File -INFO - User click on login button
+2023-08-28 15:25:28,678 - logger_File -INFO - User is logged into account
+2023-08-28 15:25:28,867 - logger_File -INFO - Account link was clicked successfully
+2023-08-28 15:25:29,065 - logger_File -INFO - Name was entered successfully
+2023-08-28 15:25:29,217 - logger_File -INFO - Phone number entered succcessfully
+2023-08-28 15:25:29,300 - logger_File -INFO - Update button was clicked successfully
+2023-08-28 15:25:30,059 - logger_File -INFO - Personal Information Updated Successfully
+2023-08-28 15:25:32,144 - logger_File -INFO - User is on retail website
+2023-08-28 15:25:32,314 - logger_File -INFO - User click on Sign in option
+2023-08-28 15:25:32,535 - logger_File -INFO - User enetered email and password successfully
+2023-08-28 15:25:32,615 - logger_File -INFO - User click on login button
+2023-08-28 15:25:32,862 - logger_File -INFO - User is logged into account
+2023-08-28 15:25:33,012 - logger_File -INFO - Account link was clicked successfully
+2023-08-28 15:25:33,105 - logger_File -INFO - Add payment link clicked successfully
+2023-08-28 15:25:33,589 - logger_File -INFO - Payment information was entered successfully
+2023-08-28 15:25:33,669 - logger_File -INFO - Payment Method Submit bttn clicked successfully
+2023-08-28 15:25:35,635 - logger_File -INFO - User is on retail website
+2023-08-28 15:25:35,781 - logger_File -INFO - User click on Sign in option
+2023-08-28 15:25:35,988 - logger_File -INFO - User enetered email and password successfully
+2023-08-28 15:25:36,068 - logger_File -INFO - User click on login button
+2023-08-28 15:25:36,315 - logger_File -INFO - User is logged into account
+2023-08-28 15:25:36,460 - logger_File -INFO - Account link was clicked successfully
+2023-08-28 15:25:36,635 - logger_File -INFO - User clicked on Edit option successfully
+2023-08-28 15:25:37,259 - logger_File -INFO - User edited inforamtion successfully
+2023-08-28 15:25:37,286 - logger_File -INFO - Payment Method updated Successfully
+2023-08-28 15:25:39,399 - logger_File -INFO - User is on retail website
+2023-08-28 15:25:39,542 - logger_File -INFO - User click on Sign in option
+2023-08-28 15:25:39,756 - logger_File -INFO - User enetered email and password successfully
+2023-08-28 15:25:39,829 - logger_File -INFO - User click on login button
+2023-08-28 15:25:40,042 - logger_File -INFO - User is logged into account
+2023-08-28 15:25:40,196 - logger_File -INFO - Account link was clicked successfully
+2023-08-28 15:25:40,936 - logger_File -INFO - User click on remove button successfully
+2023-08-28 15:25:40,958 - logger_File -INFO - Payment method removed successfully
+2023-08-28 15:25:42,891 - logger_File -INFO - User is on retail website
+2023-08-28 15:25:43,030 - logger_File -INFO - User click on Sign in option
+2023-08-28 15:25:43,248 - logger_File -INFO - User enetered email and password successfully
+2023-08-28 15:25:43,322 - logger_File -INFO - User click on login button
+2023-08-28 15:25:43,578 - logger_File -INFO - User is logged into account
+2023-08-28 15:25:43,734 - logger_File -INFO - Account link was clicked successfully
+2023-08-28 15:25:43,831 - logger_File -INFO - Add Address clicked Successfully
+2023-08-28 15:25:44,820 - logger_File -INFO - Address form was filled out successfully
+2023-08-28 15:25:44,894 - logger_File -INFO - Address Added Successfully
+2023-08-28 15:25:45,585 - logger_File -INFO - Expected Message: Address Added Successfully
+2023-08-28 15:25:48,095 - logger_File -INFO - User is on retail website
+2023-08-28 15:25:48,238 - logger_File -INFO - User click on Sign in option
+2023-08-28 15:25:48,445 - logger_File -INFO - User enetered email and password successfully
+2023-08-28 15:25:48,524 - logger_File -INFO - User click on login button
+2023-08-28 15:25:48,735 - logger_File -INFO - User is logged into account
+2023-08-28 15:25:48,876 - logger_File -INFO - Account link was clicked successfully
+2023-08-28 15:25:48,984 - logger_File -INFO - User clicked on edit address option successfully
+2023-08-28 15:25:50,122 - logger_File -INFO - User fills and update address info successfully
+2023-08-28 15:25:50,201 - logger_File -INFO - User updated address info successfully
+2023-08-28 15:25:52,843 - logger_File -INFO - User is on retail website
+2023-08-28 15:25:53,006 - logger_File -INFO - User click on Sign in option
+2023-08-28 15:25:53,218 - logger_File -INFO - User enetered email and password successfully
+2023-08-28 15:25:53,293 - logger_File -INFO - User click on login button
+2023-08-28 15:25:53,509 - logger_File -INFO - User is logged into account
+2023-08-28 15:25:53,649 - logger_File -INFO - Account link was clicked successfully
+2023-08-28 15:25:53,727 - logger_File -INFO - User clicked on remove address option sucessfully
+2023-08-28 15:25:53,751 - logger_File -INFO - Address details are removed successfully
+2023-08-28 15:28:04,313 - logger_File -INFO - User is on retail website
+2023-08-28 15:28:04,458 - logger_File -INFO - User click on Sign in option
+2023-08-28 15:28:04,678 - logger_File -INFO - User enetered email and password successfully
+2023-08-28 15:28:04,760 - logger_File -INFO - User click on login button
+2023-08-28 15:28:04,961 - logger_File -INFO - User is logged into account
+2023-08-28 15:28:05,120 - logger_File -INFO - Account link was clicked successfully
+2023-08-28 15:28:05,275 - logger_File -INFO - Name was entered successfully
+2023-08-28 15:28:05,423 - logger_File -INFO - Phone number entered succcessfully
+2023-08-28 15:28:56,602 - logger_File -INFO - User is on retail website
+2023-08-28 15:28:56,776 - logger_File -INFO - User click on Sign in option
+2023-08-28 15:28:56,998 - logger_File -INFO - User enetered email and password successfully
+2023-08-28 15:28:57,086 - logger_File -INFO - User click on login button
+2023-08-28 15:28:57,315 - logger_File -INFO - User is logged into account
+2023-08-28 15:28:57,459 - logger_File -INFO - Category was selected successfully from dropdown
+2023-08-28 15:28:57,548 - logger_File -INFO - Item name was entered successfuylly
+2023-08-28 15:28:57,627 - logger_File -INFO - Search button was clicked successfully
+2023-08-28 15:28:57,787 - logger_File -INFO - Item was clicked successfully
+2023-08-28 15:28:57,954 - logger_File -INFO - Item quantity was selected successfully
+2023-08-28 15:28:58,034 - logger_File -INFO - Add ittem to the cart button was clicked successfully
+2023-08-28 15:28:58,148 - logger_File -INFO - Item qty in the cart was validated successfully
+2023-08-28 15:29:00,640 - logger_File -INFO - User is on retail website
+2023-08-28 15:29:00,788 - logger_File -INFO - User click on Sign in option
+2023-08-28 15:29:01,007 - logger_File -INFO - User enetered email and password successfully
+2023-08-28 15:29:01,102 - logger_File -INFO - User click on login button
+2023-08-28 15:29:01,313 - logger_File -INFO - User is logged into account
+2023-08-28 15:29:01,436 - logger_File -INFO - Category changed to electronics successfully
+2023-08-28 15:29:01,534 - logger_File -INFO - Item name was entered successfully
+2023-08-28 15:29:01,612 - logger_File -INFO - Search button was clicked successfully
+2023-08-28 15:29:01,763 - logger_File -INFO - Item Apex Legends was clicked successfully
+2023-08-28 15:29:01,927 - logger_File -INFO - Apex Legends qty was changed successfully
+2023-08-28 15:29:02,010 - logger_File -INFO - Add ittem to the cart button was clicked successfully
+2023-08-28 15:29:04,198 - logger_File -INFO - User is on retail website
+2023-08-28 15:29:04,357 - logger_File -INFO - User click on Sign in option
+2023-08-28 15:29:04,566 - logger_File -INFO - User enetered email and password successfully
+2023-08-28 15:29:04,643 - logger_File -INFO - User click on login button
+2023-08-28 15:29:04,860 - logger_File -INFO - User is logged into account
+2023-08-28 15:29:05,021 - logger_File -INFO - User clicked on Orders section successfully
+2023-08-28 15:29:05,122 - logger_File -INFO - User clicked on first order on the list
+2023-08-28 15:31:55,292 - logger_File -INFO - User is on retail website
+2023-08-28 15:31:55,444 - logger_File -INFO - User click on Sign in option
+2023-08-28 15:31:55,672 - logger_File -INFO - User enetered email and password successfully
+2023-08-28 15:31:55,754 - logger_File -INFO - User click on login button
+2023-08-28 15:31:55,987 - logger_File -INFO - User is logged into account
+2023-08-28 15:31:56,146 - logger_File -INFO - Category changed to electronics successfully
+2023-08-28 15:31:56,229 - logger_File -INFO - Item name was entered successfully
+2023-08-28 15:31:56,310 - logger_File -INFO - Search button was clicked successfully
+2023-08-28 15:31:56,464 - logger_File -INFO - Item Apex Legends was clicked successfully
+2023-08-28 15:31:56,631 - logger_File -INFO - Apex Legends qty was changed successfully
+2023-08-28 15:31:56,711 - logger_File -INFO - Add ittem to the cart button was clicked successfully
+2023-08-28 15:31:56,829 - logger_File -INFO - Item qty in the cart was validated successfully
+2023-08-28 15:31:56,919 - logger_File -INFO - Cart Button was clicked successfully
+2023-08-28 15:31:57,016 - logger_File -INFO - Proceed to check out button was clicked successfully
+2023-08-28 15:36:36,613 - logger_File -INFO - User is on retail website
+2023-08-28 15:36:36,778 - logger_File -INFO - User click on Sign in option
+2023-08-28 15:36:36,988 - logger_File -INFO - User enetered email and password successfully
+2023-08-28 15:36:37,069 - logger_File -INFO - User click on login button
+2023-08-28 15:36:37,304 - logger_File -INFO - User is logged into account
+2023-08-28 15:36:37,442 - logger_File -INFO - Category changed to electronics successfully
+2023-08-28 15:36:37,531 - logger_File -INFO - Item name was entered successfully
+2023-08-28 15:36:37,612 - logger_File -INFO - Search button was clicked successfully
+2023-08-28 15:36:37,766 - logger_File -INFO - Item Apex Legends was clicked successfully
+2023-08-28 15:36:37,933 - logger_File -INFO - Apex Legends qty was changed successfully
+2023-08-28 15:36:38,015 - logger_File -INFO - Add ittem to the cart button was clicked successfully
+2023-08-28 15:36:38,144 - logger_File -INFO - Item qty in the cart was validated successfully
+2023-08-28 15:36:38,272 - logger_File -INFO - Cart Button was clicked successfully
+2023-08-28 15:36:38,393 - logger_File -INFO - Proceed to check out button was clicked successfully
+2023-08-28 15:38:32,643 - logger_File -INFO - User is on retail website
+2023-08-28 15:38:32,809 - logger_File -INFO - User click on Sign in option
+2023-08-28 15:38:33,025 - logger_File -INFO - User enetered email and password successfully
+2023-08-28 15:38:33,111 - logger_File -INFO - User click on login button
+2023-08-28 15:38:33,347 - logger_File -INFO - User is logged into account
+2023-08-28 15:38:33,488 - logger_File -INFO - Category changed to electronics successfully
+2023-08-28 15:38:33,575 - logger_File -INFO - Item name was entered successfully
+2023-08-28 15:38:33,661 - logger_File -INFO - Search button was clicked successfully
+2023-08-28 15:38:33,809 - logger_File -INFO - Item Apex Legends was clicked successfully
+2023-08-28 15:38:33,983 - logger_File -INFO - Apex Legends qty was changed successfully
+2023-08-28 15:38:34,086 - logger_File -INFO - Add ittem to the cart button was clicked successfully
+2023-08-28 15:38:34,177 - logger_File -INFO - Item qty in the cart was validated successfully
+2023-08-28 15:38:34,275 - logger_File -INFO - Cart Button was clicked successfully
+2023-08-28 15:38:34,375 - logger_File -INFO - Proceed to check out button was clicked successfully
+2023-08-28 16:54:44,637 - logger_File -INFO - User is on retail website
+2023-08-28 16:54:44,765 - logger_File -INFO - User click on Sign in option
+2023-08-28 16:54:44,985 - logger_File -INFO - User enetered email and password successfully
+2023-08-28 16:54:45,088 - logger_File -INFO - User click on login button
+2023-08-28 16:54:45,367 - logger_File -INFO - User is logged into account
+2023-08-28 16:54:45,516 - logger_File -INFO - Category changed to electronics successfully
+2023-08-28 16:54:45,605 - logger_File -INFO - Item name was entered successfully
+2023-08-28 16:54:45,685 - logger_File -INFO - Search button was clicked successfully
+2023-08-28 16:54:45,827 - logger_File -INFO - Item Apex Legends was clicked successfully
+2023-08-28 16:54:45,993 - logger_File -INFO - Apex Legends qty was changed successfully
+2023-08-28 16:54:46,073 - logger_File -INFO - Add ittem to the cart button was clicked successfully
+2023-08-28 16:54:46,168 - logger_File -INFO - Item qty in the cart was validated successfully
+2023-08-28 16:54:46,262 - logger_File -INFO - Cart Button was clicked successfully
+2023-08-28 16:54:46,361 - logger_File -INFO - Proceed to check out button was clicked successfully
+2023-08-28 16:57:05,495 - logger_File -INFO - User is on retail website
+2023-08-28 16:57:05,622 - logger_File -INFO - User click on Sign in option
+2023-08-28 16:57:05,874 - logger_File -INFO - User enetered email and password successfully
+2023-08-28 16:57:05,956 - logger_File -INFO - User click on login button
+2023-08-28 16:57:06,252 - logger_File -INFO - User is logged into account
+2023-08-28 16:57:06,395 - logger_File -INFO - Category changed to electronics successfully
+2023-08-28 16:57:06,481 - logger_File -INFO - Item name was entered successfully
+2023-08-28 16:57:06,562 - logger_File -INFO - Search button was clicked successfully
+2023-08-28 16:57:06,777 - logger_File -INFO - Item Apex Legends was clicked successfully
+2023-08-28 16:57:06,945 - logger_File -INFO - Apex Legends qty was changed successfully
+2023-08-28 16:57:07,051 - logger_File -INFO - Add ittem to the cart button was clicked successfully
+2023-08-28 16:57:07,147 - logger_File -INFO - Item qty in the cart was validated successfully
+2023-08-28 16:57:07,246 - logger_File -INFO - Cart Button was clicked successfully
+2023-08-28 16:57:07,345 - logger_File -INFO - Proceed to check out button was clicked successfully
+2023-08-28 16:57:07,450 - logger_File -INFO - Place your order button was clicked successfully
+2023-08-28 16:59:45,664 - logger_File -INFO - User is on retail website
+2023-08-28 16:59:45,818 - logger_File -INFO - User click on Sign in option
+2023-08-28 16:59:46,039 - logger_File -INFO - User enetered email and password successfully
+2023-08-28 16:59:46,121 - logger_File -INFO - User click on login button
+2023-08-28 16:59:46,377 - logger_File -INFO - User is logged into account
+2023-08-28 16:59:46,519 - logger_File -INFO - Category was selected successfully from dropdown
+2023-08-28 16:59:46,609 - logger_File -INFO - Item name was entered successfuylly
+2023-08-28 16:59:46,698 - logger_File -INFO - Search button was clicked successfully
+2023-08-28 16:59:46,844 - logger_File -INFO - Item was clicked successfully
+2023-08-28 16:59:47,012 - logger_File -INFO - Item quantity was selected successfully
+2023-08-28 16:59:47,090 - logger_File -INFO - Add ittem to the cart button was clicked successfully
+2023-08-28 16:59:47,183 - logger_File -INFO - Item qty in the cart was validated successfully
+2023-08-28 16:59:49,128 - logger_File -INFO - User is on retail website
+2023-08-28 16:59:49,262 - logger_File -INFO - User click on Sign in option
+2023-08-28 16:59:49,473 - logger_File -INFO - User enetered email and password successfully
+2023-08-28 16:59:49,558 - logger_File -INFO - User click on login button
+2023-08-28 16:59:49,774 - logger_File -INFO - User is logged into account
+2023-08-28 16:59:49,915 - logger_File -INFO - Category changed to electronics successfully
+2023-08-28 16:59:50,001 - logger_File -INFO - Item name was entered successfully
+2023-08-28 16:59:50,079 - logger_File -INFO - Search button was clicked successfully
+2023-08-28 16:59:50,231 - logger_File -INFO - Item Apex Legends was clicked successfully
+2023-08-28 16:59:50,392 - logger_File -INFO - Apex Legends qty was changed successfully
+2023-08-28 16:59:50,469 - logger_File -INFO - Add ittem to the cart button was clicked successfully
+2023-08-28 16:59:53,368 - logger_File -INFO - User is on retail website
+2023-08-28 16:59:53,524 - logger_File -INFO - User click on Sign in option
+2023-08-28 16:59:53,731 - logger_File -INFO - User enetered email and password successfully
+2023-08-28 16:59:53,809 - logger_File -INFO - User click on login button
+2023-08-28 16:59:54,042 - logger_File -INFO - User is logged into account
+2023-08-28 16:59:54,202 - logger_File -INFO - User clicked on Orders section successfully
+2023-08-28 16:59:54,303 - logger_File -INFO - User clicked on first order on the list
+2023-08-28 16:59:54,419 - logger_File -INFO - User clicked on Cancel the Order button successfully
+2023-08-28 16:59:54,515 - logger_File -INFO - User selects cancelation reason
+2023-08-28 16:59:54,597 - logger_File -INFO - User click on Cancel Order Button successfully
+2023-08-28 16:59:54,812 - logger_File -INFO - Cancelation Message is Displayed
+2023-08-28 16:59:57,036 - logger_File -INFO - User is on retail website
+2023-08-28 16:59:57,159 - logger_File -INFO - User click on Sign in option
+2023-08-28 16:59:57,375 - logger_File -INFO - User enetered email and password successfully
+2023-08-28 16:59:57,450 - logger_File -INFO - User click on login button
+2023-08-28 16:59:57,670 - logger_File -INFO - User is logged into account
+2023-08-28 16:59:57,851 - logger_File -INFO - User clicked on Orders section successfully
+2023-08-28 16:59:57,951 - logger_File -INFO - User clicked on first order on the list
+2023-08-28 17:01:18,552 - logger_File -INFO - User is on retail website
+2023-08-28 17:01:18,702 - logger_File -INFO - User click on Sign in option
+2023-08-28 17:01:18,919 - logger_File -INFO - User enetered email and password successfully
+2023-08-28 17:01:18,997 - logger_File -INFO - User click on login button
+2023-08-28 17:01:19,221 - logger_File -INFO - User is logged into account
+2023-08-28 17:01:19,367 - logger_File -INFO - Category changed to electronics successfully
+2023-08-28 17:01:19,450 - logger_File -INFO - Item name was entered successfully
+2023-08-28 17:01:19,527 - logger_File -INFO - Search button was clicked successfully
+2023-08-28 17:01:19,727 - logger_File -INFO - Item Apex Legends was clicked successfully
+2023-08-28 17:01:19,890 - logger_File -INFO - Apex Legends qty was changed successfully
+2023-08-28 17:01:19,968 - logger_File -INFO - Add ittem to the cart button was clicked successfully
+2023-08-28 17:01:20,063 - logger_File -INFO - Item qty in the cart was validated successfully
+2023-08-28 17:01:20,161 - logger_File -INFO - Cart Button was clicked successfully
+2023-08-28 17:01:20,252 - logger_File -INFO - Proceed to check out button was clicked successfully
+2023-08-28 17:01:20,349 - logger_File -INFO - Place your order button was clicked successfully

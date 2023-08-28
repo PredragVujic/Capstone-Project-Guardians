@@ -1,4 +1,4 @@
-@Regression
+
 Feature: Retail Account Page
 ​
 Background:
@@ -11,7 +11,7 @@ Background:
 
 @updatePI    
 Scenario: Verify User can update Profile Information
-    And User update Name 'DragonOOB' and Phone '0937654321'
+    And User update Name 'DragonOOD' and Phone '0937654321'
     And User click on Update button
     Then user profile information should be updated
     
@@ -20,7 +20,7 @@ Scenario: Verify User can add a payment method
     And User click on Add a payment method link
     And User fill Debit or credit card information
     |cardNumber|nameOnCard|expirationMonth|expirationYear|securityCode|
-    |9999123443210001|JojoMaTheChmar|11|2025|984|
+    |9999123443210001|JojoMaTheChmar|12|2025|984|
     And User click on Add your card button
     Then a message should be displayed 'Payment Method added sucessfully'
 

@@ -105,6 +105,7 @@ public class RetailOrderSteps extends CommonUtility {
 
 	@Then("User click on Place Your Order")
 	public void userClickOnPlaceYourOrder() {
+		waitTillPresence(pomFactory.orderPage().placeOrderBttn);
 		click(pomFactory.orderPage().placeOrderBttn);
 		logger.info("Place your order button was clicked successfully");
 
