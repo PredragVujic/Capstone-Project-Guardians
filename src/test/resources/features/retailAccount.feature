@@ -1,3 +1,4 @@
+
 Feature: Retail Account Page
 ​
 Background:
@@ -10,7 +11,7 @@ Background:
 
 @updatePI    
 Scenario: Verify User can update Profile Information
-    And User update Name 'DragonOOB' and Phone '0987654321'
+    And User update Name 'DragonOOO' and Phone '0987654321'
     And User click on Update button
     Then user profile information should be updated
     
@@ -19,7 +20,7 @@ Scenario: Verify User can add a payment method
     And User click on Add a payment method link
     And User fill Debit or credit card information
     |cardNumber|nameOnCard|expirationMonth|expirationYear|securityCode|
-    |9999123443210001|JojoMaTheChmar|11|2025|984|
+    |9999123443210000|JojoMaTheChmar|11|2025|984|
     And User click on Add your card button
     Then a message should be displayed 'Payment Method added sucessfully'
 
@@ -28,7 +29,7 @@ Scenario: Verify User can edit Debit or Credit card
     And User click on Edit option of card section
     And user edit information with below data
     |cardNumber|nameOnCard|expirationMonth|expirationYear|securityCode|
-    |2222333344441111|JojoMaTheChmar|11|2029|221|
+    |2222333344441111|JojoMaTheChmar|12|2029|221|
     And user click on Update Your Card button
     Then a message should be displayed 'Payment Method updated Successfully'
 
@@ -51,7 +52,7 @@ Scenario: Verify User can edit an Address added on account
     And User click on edit address option
     And user edit address form with below information
     |country|fullName|phoneNumber|streetAddress|apt       |city     | state |zipCode   |
-    |Serbia|Predrag|222-111-2222|34532 Michael Sigma|Suite 543|Hoshimin|Colorado|34432|
+    |Serbia|Predrag|221-111-2222|34532 Michael Sigma|Suite 543|Hoshimin|Colorado|34432|
     And User click update Your Address button
     Then a message should be displayed 'Address Updated Successfully'
 

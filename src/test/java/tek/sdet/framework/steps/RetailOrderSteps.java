@@ -109,6 +109,12 @@ public class RetailOrderSteps extends CommonUtility {
 		logger.info("Place your order button was clicked successfully");
 
 	}
+	
+	@Then("a message should be displayed")
+	public void aMessageShouldBeDisplayed() {
+		waitTillPresence(pomFactory.orderPage().orderPlacedSuccessfullyMssg);
+		logger.info("Order Placed Successfully");
+	}
 
 	// @cancelTheOrder
 

@@ -38,6 +38,7 @@ public class RetailAccountSteps extends CommonUtility {
 
 	@When("User click on Update button")
 	public void userClickOnUpdateButton() {
+		waitTillPresence(pomFactory.accountPage().updateBttn);
 		click(pomFactory.accountPage().updateBttn);
 		logger.info("Update button was clicked successfully");
 
@@ -113,6 +114,7 @@ public class RetailAccountSteps extends CommonUtility {
 
 	@When("User click on Edit option of card section")
 	public void userClickOnEditOptionOfCardSection() {
+		
 		click(pomFactory.accountPage().accPaymentImg);
 		click(pomFactory.accountPage().editCardBttn);
 		logger.info("User clicked on Edit option successfully");
