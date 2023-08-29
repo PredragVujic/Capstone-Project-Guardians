@@ -58,6 +58,7 @@ public class RetailAccountSteps extends CommonUtility {
 	@When("User click on Add a payment method link")
 	public void userClickOnAddAPaymentMethodLink() {
 		click(pomFactory.accountPage().addAPaymentMethodLink);
+		click(pomFactory.accountPage().cardNumberField); // freshly added
 		logger.info("Add payment link clicked successfully");
 
 	}
@@ -137,6 +138,7 @@ public class RetailAccountSteps extends CommonUtility {
 	@When("user click on Update Your Card button")
 	public void userClickOnUpdateYourCardButton() {
 		waitTillPresence(pomFactory.accountPage().updateCardBttn);
+		click(pomFactory.accountPage().updateCardBttn);
 		logger.info("Payment Method updated Successfully");
 
 	}
