@@ -58,6 +58,7 @@ public class RetailAccountSteps extends CommonUtility {
 	@When("User click on Add a payment method link")
 	public void userClickOnAddAPaymentMethodLink() {
 		click(pomFactory.accountPage().addAPaymentMethodLink);
+		click(pomFactory.accountPage().cardNumberField); // freshly added
 		logger.info("Add payment link clicked successfully");
 
 	}
@@ -113,7 +114,8 @@ public class RetailAccountSteps extends CommonUtility {
 
 	@When("User click on Edit option of card section")
 	public void userClickOnEditOptionOfCardSection() {
-		click(pomFactory.accountPage().accPaymentImg);
+		
+		click(pomFactory.accountPage().accPaymentBox);
 		click(pomFactory.accountPage().editCardBttn);
 		logger.info("User clicked on Edit option successfully");
 
@@ -137,13 +139,15 @@ public class RetailAccountSteps extends CommonUtility {
 	@When("user click on Update Your Card button")
 	public void userClickOnUpdateYourCardButton() {
 		waitTillPresence(pomFactory.accountPage().updateCardBttn);
+		click(pomFactory.accountPage().updateCardBttn);
 		logger.info("Payment Method updated Successfully");
 
 	}
 
 	@When("User click on remove option of card section")
 	public void userClickOnRemoveOptionOfCardSection() {
-		click(pomFactory.accountPage().accPaymentImg);
+		
+		click(pomFactory.accountPage().accPaymentBox);
 		click(pomFactory.accountPage().removeCardBttn);
 		logger.info("User click on remove button successfully");
 
@@ -196,7 +200,10 @@ public class RetailAccountSteps extends CommonUtility {
 
 	@When("User click Add Your Address button")
 	public void userClickAddYourAddressButton() {
+		waitTillPresence(pomFactory.accountPage().addAddress);
 		click(pomFactory.accountPage().addAddress);
+		waitTillPresence(pomFactory.accountPage().addressSuccessMssg);
+		Assert.assertTrue(pomFactory.accountPage().addressSuccessMssg.isDisplayed());
 		logger.info("Address Added Successfully");
 
 	}

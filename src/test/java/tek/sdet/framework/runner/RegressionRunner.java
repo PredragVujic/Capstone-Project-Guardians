@@ -17,6 +17,6 @@ import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
         },
         snippets = CAMELCASE,
         monochrome = true)
-public class TestRunner {
+public class RegressionRunner {
 
 }
