@@ -29,7 +29,7 @@ public class RetailOrderPage extends BaseSetup{
 	@FindBy(id = "addToCartBtn")
 	public WebElement addToCartBttn;
 	
-	@FindBy(xpath = "//span[@id='cartQuantity']")
+	@FindBy(xpath = "//span[@id='cartQuantity' and text()='7']")
 	public WebElement cartItemQty;
 	
 	@FindBy(id = "cartBtn")
