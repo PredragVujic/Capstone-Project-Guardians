@@ -85,7 +85,7 @@ public class RetailOrderSteps extends CommonUtility {
 		logger.info("Apex Legends qty was changed successfully");
 	}
 
-	@Then("the cart icon quantity should change to {string}")
+	@Then("the cart icon quantity is changed to {string}")
 	public void theCartIconQuantityShouldChangeToApexLegends(String filledCartBttn) {
 		Assert.assertEquals(filledCartBttn, pomFactory.orderPage().filledCartBttn.getText());
 		logger.info("Item qty in the cart was validated successfully");
