@@ -2787,3 +2787,100 @@
 2023-08-28 17:01:20,252 - logger_File -INFO - Proceed to check out button was clicked successfully
 2023-08-28 17:01:20,349 - logger_File -INFO - Place your order button was clicked successfully
 >>>>>>> fbaa4fae99400622110e8371ec21370be955e1db
+2023-08-30 14:13:22,835 - logger_File -INFO - TekSchool logo is displayed
+2023-08-30 14:13:22,970 - logger_File -INFO - User clicked on All section successfully
+2023-08-30 14:13:23,004 - logger_File -INFO - Options Electronics is displayed
+2023-08-30 14:13:23,033 - logger_File -INFO - Options Computers is displayed
+2023-08-30 14:13:23,063 - logger_File -INFO - Options Smart Home is displayed
+2023-08-30 14:13:23,089 - logger_File -INFO - Options Sports is displayed
+2023-08-30 14:13:23,116 - logger_File -INFO - Options Automative is displayed
+2023-08-30 14:13:24,844 - logger_File -INFO - TekSchool logo is displayed
+2023-08-30 14:13:24,974 - logger_File -INFO - User clicked on All section successfully
+2023-08-30 14:13:25,124 - logger_File -INFO - The options TV & Video is present
+2023-08-30 14:13:25,183 - logger_File -INFO - The options Video Games is present
+2023-08-30 14:13:27,578 - logger_File -INFO - TekSchool logo is displayed
+2023-08-30 14:13:27,723 - logger_File -INFO - User clicked on All section successfully
+2023-08-30 14:13:27,901 - logger_File -INFO - The options Accessories is present
+2023-08-30 14:13:27,956 - logger_File -INFO - The options Networking is present
+2023-08-30 14:13:30,563 - logger_File -INFO - TekSchool logo is displayed
+2023-08-30 14:13:30,674 - logger_File -INFO - User clicked on All section successfully
+2023-08-30 14:13:30,858 - logger_File -INFO - The options Smart Home Lightning is present
+2023-08-30 14:13:30,912 - logger_File -INFO - The options Plugs and Outlets is present
+2023-08-30 14:13:33,547 - logger_File -INFO - TekSchool logo is displayed
+2023-08-30 14:13:33,646 - logger_File -INFO - User clicked on All section successfully
+2023-08-30 14:13:33,844 - logger_File -INFO - The options Athletic Clothing is present
+2023-08-30 14:13:33,898 - logger_File -INFO - The options Exercise & Fitness is present
+2023-08-30 14:13:36,175 - logger_File -INFO - TekSchool logo is displayed
+2023-08-30 14:13:36,311 - logger_File -INFO - User clicked on All section successfully
+2023-08-30 14:13:38,673 - logger_File -INFO - User is on retail website
+2023-08-30 14:13:38,818 - logger_File -INFO - User click on Sign in option
+2023-08-30 14:13:39,045 - logger_File -INFO - User enetered email and password successfully
+2023-08-30 14:13:39,121 - logger_File -INFO - User click on login button
+2023-08-30 14:13:39,347 - logger_File -INFO - User is logged into account
+2023-08-30 14:13:39,530 - logger_File -INFO - Account link was clicked successfully
+2023-08-30 14:13:39,689 - logger_File -INFO - Name was entered successfully
+2023-08-30 14:13:39,839 - logger_File -INFO - Phone number entered succcessfully
+2023-08-30 14:14:05,360 - logger_File -INFO - User is on retail website
+2023-08-30 14:14:05,559 - logger_File -INFO - User click on Sign in option
+2023-08-30 14:14:05,776 - logger_File -INFO - User enetered email and password successfully
+2023-08-30 14:14:05,852 - logger_File -INFO - User click on login button
+2023-08-30 14:14:06,125 - logger_File -INFO - User is logged into account
+2023-08-30 14:14:06,319 - logger_File -INFO - Account link was clicked successfully
+2023-08-30 14:14:06,482 - logger_File -INFO - Add payment link clicked successfully
+2023-08-30 14:14:06,904 - logger_File -INFO - Payment information was entered successfully
+2023-08-30 14:14:06,980 - logger_File -INFO - Payment Method Submit bttn clicked successfully
+2023-08-30 14:14:09,319 - logger_File -INFO - User is on retail website
+2023-08-30 14:14:09,452 - logger_File -INFO - User click on Sign in option
+2023-08-30 14:14:09,674 - logger_File -INFO - User enetered email and password successfully
+2023-08-30 14:14:09,747 - logger_File -INFO - User click on login button
+2023-08-30 14:14:09,983 - logger_File -INFO - User is logged into account
+2023-08-30 14:14:10,132 - logger_File -INFO - Account link was clicked successfully
+2023-08-30 14:14:10,291 - logger_File -INFO - User clicked on Edit option successfully
+2023-08-30 14:14:10,900 - logger_File -INFO - User edited inforamtion successfully
+2023-08-30 14:14:10,999 - logger_File -INFO - Payment Method updated Successfully
+2023-08-30 14:14:12,970 - logger_File -INFO - User is on retail website
+2023-08-30 14:14:13,120 - logger_File -INFO - User click on Sign in option
+2023-08-30 14:14:13,333 - logger_File -INFO - User enetered email and password successfully
+2023-08-30 14:14:13,413 - logger_File -INFO - User click on login button
+2023-08-30 14:14:13,625 - logger_File -INFO - User is logged into account
+2023-08-30 14:14:13,771 - logger_File -INFO - Account link was clicked successfully
+2023-08-30 14:14:13,938 - logger_File -INFO - User click on remove button successfully
+2023-08-30 14:14:13,959 - logger_File -INFO - Payment method removed successfully
+2023-08-30 14:14:15,793 - logger_File -INFO - User is on retail website
+2023-08-30 14:14:15,913 - logger_File -INFO - User click on Sign in option
+2023-08-30 14:14:16,145 - logger_File -INFO - User enetered email and password successfully
+2023-08-30 14:14:16,216 - logger_File -INFO - User click on login button
+2023-08-30 14:14:16,459 - logger_File -INFO - User is logged into account
+2023-08-30 14:14:16,584 - logger_File -INFO - Account link was clicked successfully
+2023-08-30 14:14:16,697 - logger_File -INFO - Add Address clicked Successfully
+2023-08-30 14:14:17,705 - logger_File -INFO - Address form was filled out successfully
+2023-08-30 14:14:18,506 - logger_File -INFO - Address Added Successfully
+2023-08-30 14:14:18,570 - logger_File -INFO - Expected Message: Address Added Successfully
+2023-08-30 14:14:23,160 - logger_File -INFO - User is on retail website
+2023-08-30 14:14:23,295 - logger_File -INFO - User click on Sign in option
+2023-08-30 14:14:23,500 - logger_File -INFO - User enetered email and password successfully
+2023-08-30 14:14:23,578 - logger_File -INFO - User click on login button
+2023-08-30 14:14:23,787 - logger_File -INFO - User is logged into account
+2023-08-30 14:14:23,909 - logger_File -INFO - Account link was clicked successfully
+2023-08-30 14:14:24,247 - logger_File -INFO - User clicked on edit address option successfully
+2023-08-30 14:14:25,395 - logger_File -INFO - User fills and update address info successfully
+2023-08-30 14:14:25,469 - logger_File -INFO - User updated address info successfully
+2023-08-30 14:14:27,767 - logger_File -INFO - User is on retail website
+2023-08-30 14:14:27,888 - logger_File -INFO - User click on Sign in option
+2023-08-30 14:14:28,117 - logger_File -INFO - User enetered email and password successfully
+2023-08-30 14:14:28,189 - logger_File -INFO - User click on login button
+2023-08-30 14:14:28,418 - logger_File -INFO - User is logged into account
+2023-08-30 14:14:28,568 - logger_File -INFO - Account link was clicked successfully
+2023-08-30 14:14:28,651 - logger_File -INFO - User clicked on remove address option sucessfully
+2023-08-30 14:14:28,678 - logger_File -INFO - Address details are removed successfully
+2023-08-30 14:14:30,501 - logger_File -INFO - User is on retail website
+2023-08-30 14:14:30,627 - logger_File -INFO - User click on Sign in option
+2023-08-30 14:14:30,835 - logger_File -INFO - User enetered email and password successfully
+2023-08-30 14:14:30,911 - logger_File -INFO - User click on login button
+2023-08-30 14:14:31,152 - logger_File -INFO - User is logged into account
+2023-08-30 14:14:32,781 - logger_File -INFO - User is on retail website
+2023-08-30 14:14:32,905 - logger_File -INFO - User click on Sign in option
+2023-08-30 14:14:32,997 - logger_File -INFO - Create new account bttn clicked successfully
+2023-08-30 14:14:33,471 - logger_File -INFO - User fill the signUp information successfully
+2023-08-30 14:14:33,545 - logger_File -INFO - User clicked on signup button successfully
+2023-08-30 14:14:33,806 - logger_File -INFO - User account is created successfully
