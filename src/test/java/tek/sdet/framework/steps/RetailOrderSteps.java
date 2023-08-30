@@ -86,8 +86,8 @@ public class RetailOrderSteps extends CommonUtility {
 	}
 
 	@Then("the cart icon quantity should change to {string}")
-	public void theCartIconQuantityShouldChangeToApexLegends(String itemQtyInTheCart) {
-		Assert.assertEquals(itemQtyInTheCart, pomFactory.orderPage().cartItemQty.getText());
+	public void theCartIconQuantityShouldChangeToApexLegends(String filledCartBttn) {
+		Assert.assertEquals(filledCartBttn, pomFactory.orderPage().filledCartBttn.getText());
 		logger.info("Item qty in the cart was validated successfully");
 	}
 
