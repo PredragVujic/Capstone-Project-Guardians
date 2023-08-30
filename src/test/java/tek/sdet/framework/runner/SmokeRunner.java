@@ -6,7 +6,7 @@ import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        tags = "@addItemToCartAndCheckout",
+        tags = "@Smoke",
         features = ("classpath:features"),
         glue="tek.sdet.framework",
         dryRun = false,
@@ -17,6 +17,6 @@ import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
         },
         snippets = CAMELCASE,
         monochrome = true)
-public class TestRunner {
+public class SmokeRunner {
 
 }

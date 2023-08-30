@@ -200,7 +200,10 @@ public class RetailAccountSteps extends CommonUtility {
 
 	@When("User click Add Your Address button")
 	public void userClickAddYourAddressButton() {
+		waitTillPresence(pomFactory.accountPage().addAddress);
 		click(pomFactory.accountPage().addAddress);
+		waitTillPresence(pomFactory.accountPage().addressSuccessMssg);
+		Assert.assertTrue(pomFactory.accountPage().addressSuccessMssg.isDisplayed());
 		logger.info("Address Added Successfully");
 
 	}
