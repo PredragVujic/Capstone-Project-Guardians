@@ -11,7 +11,7 @@ Background:
 
 @updatePI    
 Scenario: Verify User can update Profile Information
-    And User update Name 'DragonOOB' and Phone '0937654321'
+    And User update Name 'DragonSOD' and Phone '1937654321'
     And User click on Update button
     Then user profile information should be updated
     

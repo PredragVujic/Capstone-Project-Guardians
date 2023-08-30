@@ -114,7 +114,8 @@ public class RetailAccountSteps extends CommonUtility {
 
 	@When("User click on Edit option of card section")
 	public void userClickOnEditOptionOfCardSection() {
-		click(pomFactory.accountPage().accPaymentImg);
+		
+		click(pomFactory.accountPage().accPaymentBox);
 		click(pomFactory.accountPage().editCardBttn);
 		logger.info("User clicked on Edit option successfully");
 
@@ -145,7 +146,8 @@ public class RetailAccountSteps extends CommonUtility {
 
 	@When("User click on remove option of card section")
 	public void userClickOnRemoveOptionOfCardSection() {
-		click(pomFactory.accountPage().accPaymentImg);
+		
+		click(pomFactory.accountPage().accPaymentBox);
 		click(pomFactory.accountPage().removeCardBttn);
 		logger.info("User click on remove button successfully");
 

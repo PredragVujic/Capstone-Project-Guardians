@@ -1,3 +1,4 @@
+
 Feature: Sign in Feature
 
 Background:
@@ -16,6 +17,6 @@ Scenario: Verify user can sign in into Retail Application
     And User click on Create New Account button
     And User fill the signUp information with below data
     | name | email | password | confirmPassword |
-    | Jojoma| jojoma3@gmail.com | Juris1234! | Juris1234! |
+    | Jojoma| jojoxy5@gmail.com | Jajara1! | Jajara1! |
     And User click on SignUp button
     Then User should be logged into account page

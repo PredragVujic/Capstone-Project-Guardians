@@ -65,6 +65,9 @@ public class RetailAccountPage extends BaseSetup{
 	//@editCard
 	
 	@FindBy(xpath = "//div[@class='account__payment-image-wrapper']")
+	public WebElement accPaymentBox; // recent
+	
+	@FindBy(xpath = "//p[text()='Add a payment method']")
 	public WebElement accPaymentImg;
 	
 	@FindBy(xpath = "//div//button[@class='text-blue-800 cursor-pointer hover:underline' and text()='Edit']")
