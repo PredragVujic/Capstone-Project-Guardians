@@ -1,4 +1,4 @@
-@Regression
+@Smoke
 Feature: Retail Order Page
 ​
 Background:
@@ -17,7 +17,7 @@ Scenario: Verify User can add an item to cart
     And User select quantity '2'
     And User click add to Cart button
     Then the cart icon quantity should change to '2'
- @Smoke  
+  
 @addItemToCartAndCheckout    
 Scenario: Verify User can place an order with Shipping address and payment Method on file
     And User change the category to 'Electronics' Apex Legends
