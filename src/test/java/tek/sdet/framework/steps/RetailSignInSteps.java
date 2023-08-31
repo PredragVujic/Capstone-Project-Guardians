@@ -75,6 +75,7 @@ public class RetailSignInSteps extends CommonUtility {
 
 	@Then("User should be logged into account page")
 	public void userShouldBeLoggedIntoAccountPage() {
+		waitTillPresence(pomFactory.signInPage().yourProfileText);
 		Assert.assertTrue(pomFactory.signInPage().yourProfileText.isDisplayed());
 		logger.info("User account is created successfully");
 	}
