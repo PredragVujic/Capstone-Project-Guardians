@@ -59,7 +59,7 @@ public class RetailOrderPage extends BaseSetup{
 	@FindBy(id = "cancelBtn")
 	public WebElement cancelOrderBttn;
 	
-	@FindBy(xpath = "//div[@class='order__content-actions']//button[@class='order__content-btn' and text()='Return Items']")
+	@FindBy(id = "returnBtn")
 	public WebElement returnOrderBttn; 
 	
 	@FindBy(xpath = "//select[@id='reasonInput']//option[@value='wrong']")
