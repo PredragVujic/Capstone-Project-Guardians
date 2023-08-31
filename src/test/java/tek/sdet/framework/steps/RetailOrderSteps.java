@@ -99,6 +99,7 @@ public class RetailOrderSteps extends CommonUtility {
 
 	@Then("User click on Proceed to Checkout button")
 	public void userClickOnProceedToCheckoutButton() {
+		waitTillPresence(pomFactory.orderPage().proceedToCheckoutBttn);
 		click(pomFactory.orderPage().proceedToCheckoutBttn);
 		logger.info("Proceed to check out button was clicked successfully");
 	}
@@ -122,6 +123,7 @@ public class RetailOrderSteps extends CommonUtility {
 
 	@When("User click on first order in list")
 	public void userClickOnFirstOrderInList() {
+		waitTillPresence(pomFactory.orderPage().orderDetailBttn);
 		click(pomFactory.orderPage().orderDetailBttn);
 		logger.info("User clicked on first order on the list");
 	}
@@ -142,6 +144,7 @@ public class RetailOrderSteps extends CommonUtility {
 
 	@When("User click on Cancel Order button")
 	public void userClickOnCancelOrderButton() {
+		waitTillPresence(pomFactory.orderPage().cancelOrderSubmitBttn);
 		click(pomFactory.orderPage().cancelOrderSubmitBttn);
 		logger.info("User click on Cancel Order Button successfully");
 	}
